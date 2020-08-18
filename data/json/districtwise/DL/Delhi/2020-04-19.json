@@ -1,0 +1,23 @@
+{
+    "total": {
+        "deceased": 45,
+        "confirmed": 2003,
+        "recovered": 290,
+        "active": 1668,
+        "tested": 24387
+    },
+    "delta": {
+        "deceased": 2,
+        "confirmed": 110,
+        "recovered": 83,
+        "active": 25,
+        "tested": 2104
+    },
+    "meta": {
+        "population": 19814000,
+        "tested": {
+            "source": "https://twitter.com/CMODelhi/status/1251923081699811328?s=09",
+            "last_updated": "2020-04-19"
+        }
+    }
+}

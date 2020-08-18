@@ -1,0 +1,23 @@
+{
+    "total": {
+        "deceased": 3690,
+        "confirmed": 125096,
+        "recovered": 106118,
+        "active": 15288,
+        "tested": 851311
+    },
+    "delta": {
+        "deceased": 27,
+        "confirmed": 1349,
+        "recovered": 1200,
+        "active": 122,
+        "tested": 20852
+    },
+    "meta": {
+        "population": 19814000,
+        "tested": {
+            "source": "https://twitter.com/AHindinews/status/1285566660062191616?s=20",
+            "last_updated": "2020-07-21"
+        }
+    }
+}

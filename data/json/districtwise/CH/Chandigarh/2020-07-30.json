@@ -1,0 +1,23 @@
+{
+    "total": {
+        "deceased": 14,
+        "confirmed": 1016,
+        "recovered": 647,
+        "active": 355,
+        "tested": 13683
+    },
+    "delta": {
+        "deceased": 0,
+        "confirmed": 38,
+        "recovered": 36,
+        "active": 2,
+        "tested": 356
+    },
+    "meta": {
+        "population": 1055450,
+        "tested": {
+            "source": "https://twitter.com/DDnewschd/status/1288790893995073541?s=20",
+            "last_updated": "2020-07-30"
+        }
+    }
+}

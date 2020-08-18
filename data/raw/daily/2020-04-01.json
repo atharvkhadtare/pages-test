@@ -1,0 +1,490 @@
+{
+    "KA": {
+        "total": {
+            "deceased": 3,
+            "recovered": 9,
+            "confirmed": 110
+        },
+        "meta": {
+            "population": 65798000
+        },
+        "delta": {
+            "recovered": 1,
+            "confirmed": 9
+        }
+    },
+    "MZ": {
+        "total": {
+            "confirmed": 1
+        },
+        "meta": {
+            "population": 1192000
+        }
+    },
+    "MN": {
+        "total": {
+            "confirmed": 1
+        },
+        "meta": {
+            "population": 3103000
+        }
+    },
+    "AN": {
+        "total": {
+            "confirmed": 10
+        },
+        "meta": {
+            "population": 397000
+        },
+        "districts": {
+            "Unknown": {
+                "total": {
+                    "confirmed": 10
+                }
+            }
+        }
+    },
+    "UT": {
+        "total": {
+            "recovered": 2,
+            "confirmed": 7
+        },
+        "meta": {
+            "population": 11141000
+        }
+    },
+    "MH": {
+        "total": {
+            "deceased": 16,
+            "recovered": 39,
+            "confirmed": 335
+        },
+        "districts": {
+            "Aurangabad": {
+                "total": {
+                    "tested": 160
+                },
+                "meta": {
+                    "population": 3695928,
+                    "tested": {
+                        "last_updated": "2020-04-01"
+                    }
+                },
+                "delta": {
+                    "tested": 160
+                }
+            }
+        },
+        "delta": {
+            "deceased": 5,
+            "confirmed": 33
+        },
+        "meta": {
+            "population": 122153000
+        }
+    },
+    "DL": {
+        "total": {
+            "deceased": 2,
+            "recovered": 6,
+            "confirmed": 152,
+            "tested": 2621
+        },
+        "districts": {
+            "Delhi": {
+                "total": {
+                    "deceased": 2,
+                    "recovered": 6,
+                    "confirmed": 152,
+                    "tested": 2621
+                },
+                "meta": {
+                    "population": 19814000,
+                    "tested": {
+                        "source": "http://health.delhigovt.nic.in/wps/wcm/connect/068e55804dc3527fb23cf7982ee7a5c7/HB01A.pdf?MOD=AJPERES&lmod=908572962&CACHEID=068e55804dc3527fb23cf7982ee7a5c7",
+                        "last_updated": "2020-04-01"
+                    }
+                },
+                "delta": {
+                    "tested": 2621,
+                    "confirmed": 32
+                }
+            }
+        },
+        "delta": {
+            "tested": 2621,
+            "confirmed": 32
+        },
+        "meta": {
+            "population": 19814000,
+            "tested": {
+                "source": "http://health.delhigovt.nic.in/wps/wcm/connect/068e55804dc3527fb23cf7982ee7a5c7/HB01A.pdf?MOD=AJPERES&lmod=908572962&CACHEID=068e55804dc3527fb23cf7982ee7a5c7",
+                "last_updated": "2020-04-01"
+            }
+        }
+    },
+    "AS": {
+        "total": {
+            "confirmed": 16
+        },
+        "meta": {
+            "population": 34293000
+        },
+        "delta": {
+            "confirmed": 15
+        }
+    },
+    "OR": {
+        "total": {
+            "recovered": 1,
+            "confirmed": 5
+        },
+        "meta": {
+            "population": 43671000
+        },
+        "delta": {
+            "recovered": 1,
+            "confirmed": 1
+        }
+    },
+    "PY": {
+        "total": {
+            "confirmed": 3
+        },
+        "meta": {
+            "population": 1504000
+        },
+        "delta": {
+            "confirmed": 2
+        }
+    },
+    "TT": {
+        "total": {
+            "deceased": 58,
+            "other": 3,
+            "confirmed": 2059,
+            "recovered": 169,
+            "tested": 47951
+        },
+        "meta": {
+            "population": 1332900000,
+            "tested": {
+                "source": "https://twitter.com/PTI_News/status/1245308976440340482",
+                "last_updated": "2020-04-01"
+            }
+        },
+        "delta": {
+            "deceased": 11,
+            "recovered": 9,
+            "confirmed": 424,
+            "tested": 5163
+        }
+    },
+    "RJ": {
+        "total": {
+            "recovered": 3,
+            "confirmed": 120
+        },
+        "districts": {
+            "Jodhpur": {
+                "total": {
+                    "tested": 405
+                },
+                "meta": {
+                    "population": 3685681,
+                    "tested": {
+                        "last_updated": "2020-04-01"
+                    }
+                },
+                "delta": {
+                    "tested": 405
+                }
+            },
+            "Udaipur": {
+                "total": {
+                    "tested": 117
+                },
+                "meta": {
+                    "population": 3067549,
+                    "tested": {
+                        "last_updated": "2020-04-01"
+                    }
+                },
+                "delta": {
+                    "tested": 117
+                }
+            },
+            "Jaipur": {
+                "total": {
+                    "tested": 1186
+                },
+                "meta": {
+                    "population": 6663971,
+                    "tested": {
+                        "last_updated": "2020-04-01"
+                    }
+                },
+                "delta": {
+                    "tested": 1186
+                }
+            }
+        },
+        "delta": {
+            "confirmed": 27
+        },
+        "meta": {
+            "population": 77264000
+        }
+    },
+    "BR": {
+        "total": {
+            "deceased": 1,
+            "confirmed": 24
+        },
+        "meta": {
+            "population": 119520000
+        },
+        "delta": {
+            "confirmed": 3
+        }
+    },
+    "UP": {
+        "total": {
+            "deceased": 2,
+            "recovered": 17,
+            "confirmed": 117
+        },
+        "meta": {
+            "population": 224979000
+        },
+        "delta": {
+            "deceased": 2,
+            "confirmed": 13
+        }
+    },
+    "CT": {
+        "total": {
+            "recovered": 2,
+            "confirmed": 9
+        },
+        "meta": {
+            "population": 28724000
+        }
+    },
+    "JK": {
+        "total": {
+            "deceased": 2,
+            "recovered": 2,
+            "confirmed": 62
+        },
+        "meta": {
+            "population": 13203000
+        },
+        "delta": {
+            "recovered": 1,
+            "confirmed": 7
+        }
+    },
+    "WB": {
+        "total": {
+            "deceased": 3,
+            "recovered": 3,
+            "confirmed": 37,
+            "tested": 659
+        },
+        "meta": {
+            "population": 96906000,
+            "tested": {
+                "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_01.04_.2020_.pdf",
+                "last_updated": "2020-04-01"
+            }
+        },
+        "delta": {
+            "tested": 659
+        }
+    },
+    "LA": {
+        "total": {
+            "recovered": 3,
+            "confirmed": 13
+        },
+        "meta": {
+            "population": 293000
+        }
+    },
+    "HR": {
+        "total": {
+            "recovered": 27,
+            "confirmed": 43
+        },
+        "meta": {
+            "population": 28672000
+        },
+        "delta": {
+            "recovered": 3
+        }
+    },
+    "HP": {
+        "total": {
+            "deceased": 1,
+            "other": 3,
+            "confirmed": 3,
+            "recovered": 1
+        },
+        "meta": {
+            "population": 7300000
+        }
+    },
+    "MP": {
+        "total": {
+            "deceased": 6,
+            "confirmed": 98
+        },
+        "meta": {
+            "population": 82232000
+        },
+        "delta": {
+            "deceased": 1,
+            "confirmed": 32
+        }
+    },
+    "GJ": {
+        "total": {
+            "deceased": 6,
+            "recovered": 5,
+            "confirmed": 87
+        },
+        "meta": {
+            "population": 67936000
+        },
+        "delta": {
+            "confirmed": 13
+        }
+    },
+    "TG": {
+        "total": {
+            "deceased": 9,
+            "recovered": 14,
+            "confirmed": 127
+        },
+        "districts": {
+            "Unknown": {
+                "total": {
+                    "deceased": 9,
+                    "recovered": 14,
+                    "confirmed": 127
+                },
+                "delta": {
+                    "deceased": 3,
+                    "confirmed": 30
+                }
+            }
+        },
+        "delta": {
+            "deceased": 3,
+            "confirmed": 30
+        },
+        "meta": {
+            "population": 37220000
+        }
+    },
+    "PB": {
+        "total": {
+            "deceased": 4,
+            "recovered": 1,
+            "confirmed": 46
+        },
+        "meta": {
+            "population": 29859000
+        },
+        "delta": {
+            "confirmed": 4
+        }
+    },
+    "AP": {
+        "total": {
+            "recovered": 2,
+            "confirmed": 111
+        },
+        "meta": {
+            "population": 52221000
+        },
+        "delta": {
+            "recovered": 1,
+            "confirmed": 67
+        }
+    },
+    "JH": {
+        "total": {
+            "confirmed": 1
+        },
+        "meta": {
+            "population": 37403000
+        }
+    },
+    "KL": {
+        "total": {
+            "deceased": 2,
+            "recovered": 26,
+            "confirmed": 265,
+            "tested": 7965
+        },
+        "meta": {
+            "population": 35125000,
+            "tested": {
+                "source": "https://dashboard.kerala.gov.in/testing-view-public.php",
+                "last_updated": "2020-04-01"
+            }
+        },
+        "delta": {
+            "recovered": 2,
+            "confirmed": 24,
+            "tested": 7965
+        }
+    },
+    "TN": {
+        "total": {
+            "deceased": 1,
+            "recovered": 6,
+            "confirmed": 234
+        },
+        "meta": {
+            "population": 75695000
+        },
+        "delta": {
+            "confirmed": 110
+        }
+    },
+    "GA": {
+        "total": {
+            "confirmed": 5
+        },
+        "meta": {
+            "population": 1540000
+        }
+    },
+    "CH": {
+        "total": {
+            "confirmed": 17
+        },
+        "districts": {
+            "Chandigarh": {
+                "total": {
+                    "confirmed": 17
+                },
+                "meta": {
+                    "population": 1055450
+                },
+                "delta": {
+                    "confirmed": 2
+                }
+            }
+        },
+        "delta": {
+            "confirmed": 2
+        },
+        "meta": {
+            "population": 1179000
+        }
+    }
+}

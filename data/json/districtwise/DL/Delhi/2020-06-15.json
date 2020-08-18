@@ -1,0 +1,23 @@
+{
+    "total": {
+        "deceased": 1400,
+        "confirmed": 42829,
+        "recovered": 16427,
+        "active": 25002,
+        "tested": 296697
+    },
+    "delta": {
+        "deceased": 73,
+        "confirmed": 1647,
+        "recovered": 604,
+        "active": 970,
+        "tested": 6105
+    },
+    "meta": {
+        "population": 19814000,
+        "tested": {
+            "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-15.pdf",
+            "last_updated": "2020-06-15"
+        }
+    }
+}

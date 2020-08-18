@@ -1,0 +1,22 @@
+{
+    "total": {
+        "deceased": 24,
+        "confirmed": 2170,
+        "recovered": 1517,
+        "active": 629,
+        "tested": 34165
+    },
+    "delta": {
+        "deceased": 0,
+        "confirmed": 66,
+        "recovered": 43,
+        "active": 23,
+        "tested": 1056
+    },
+    "meta": {
+        "population": 1480080,
+        "tested": {
+            "last_updated": "2020-07-15"
+        }
+    }
+}

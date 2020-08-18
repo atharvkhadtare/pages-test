@@ -1,0 +1,86 @@
+{
+    "DL": {
+        "total": {
+            "confirmed": 3
+        },
+        "districts": {
+            "Delhi": {
+                "total": {
+                    "confirmed": 3
+                },
+                "meta": {
+                    "population": 19814000
+                },
+                "delta": {
+                    "confirmed": 1
+                }
+            }
+        },
+        "delta": {
+            "confirmed": 1
+        },
+        "meta": {
+            "population": 19814000
+        }
+    },
+    "UP": {
+        "total": {
+            "confirmed": 8
+        },
+        "meta": {
+            "population": 224979000
+        }
+    },
+    "KL": {
+        "total": {
+            "recovered": 3,
+            "confirmed": 3
+        },
+        "meta": {
+            "population": 35125000
+        }
+    },
+    "TT": {
+        "total": {
+            "recovered": 3,
+            "confirmed": 31
+        },
+        "meta": {
+            "population": 1332900000
+        },
+        "delta": {
+            "confirmed": 1
+        }
+    },
+    "TG": {
+        "total": {
+            "confirmed": 1
+        },
+        "meta": {
+            "population": 37220000
+        },
+        "districts": {
+            "Unknown": {
+                "total": {
+                    "confirmed": 1
+                }
+            }
+        }
+    },
+    "RJ": {
+        "total": {
+            "confirmed": 2
+        },
+        "meta": {
+            "population": 77264000
+        }
+    },
+    "HR": {
+        "total": {
+            "confirmed": 14
+        },
+        "meta": {
+            "population": 28672000
+        }
+    }
+}

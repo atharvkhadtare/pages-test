@@ -1,0 +1,411 @@
+{
+    "KA": {
+        "total": {
+            "deceased": 3,
+            "recovered": 8,
+            "confirmed": 101
+        },
+        "meta": {
+            "population": 65798000
+        },
+        "delta": {
+            "recovered": 2,
+            "confirmed": 13
+        }
+    },
+    "MZ": {
+        "total": {
+            "confirmed": 1
+        },
+        "meta": {
+            "population": 1192000
+        }
+    },
+    "MN": {
+        "total": {
+            "confirmed": 1
+        },
+        "meta": {
+            "population": 3103000
+        }
+    },
+    "AN": {
+        "total": {
+            "confirmed": 10
+        },
+        "meta": {
+            "population": 397000
+        },
+        "districts": {
+            "Unknown": {
+                "total": {
+                    "confirmed": 10
+                }
+            }
+        }
+    },
+    "UT": {
+        "total": {
+            "recovered": 2,
+            "confirmed": 7
+        },
+        "meta": {
+            "population": 11141000
+        }
+    },
+    "MH": {
+        "total": {
+            "deceased": 11,
+            "recovered": 39,
+            "confirmed": 302
+        },
+        "meta": {
+            "population": 122153000
+        },
+        "delta": {
+            "deceased": 1,
+            "confirmed": 82
+        }
+    },
+    "DL": {
+        "total": {
+            "deceased": 2,
+            "recovered": 6,
+            "confirmed": 120
+        },
+        "districts": {
+            "Delhi": {
+                "total": {
+                    "deceased": 2,
+                    "recovered": 6,
+                    "confirmed": 120
+                },
+                "meta": {
+                    "population": 19814000
+                },
+                "delta": {
+                    "confirmed": 23
+                }
+            }
+        },
+        "delta": {
+            "confirmed": 23
+        },
+        "meta": {
+            "population": 19814000
+        }
+    },
+    "AS": {
+        "total": {
+            "confirmed": 1
+        },
+        "meta": {
+            "population": 34293000
+        },
+        "delta": {
+            "confirmed": 1
+        }
+    },
+    "OR": {
+        "total": {
+            "confirmed": 4
+        },
+        "meta": {
+            "population": 43671000
+        },
+        "delta": {
+            "confirmed": 1
+        }
+    },
+    "PY": {
+        "total": {
+            "confirmed": 1
+        },
+        "meta": {
+            "population": 1504000
+        }
+    },
+    "TT": {
+        "total": {
+            "deceased": 47,
+            "other": 3,
+            "confirmed": 1635,
+            "recovered": 160,
+            "tested": 42788
+        },
+        "meta": {
+            "population": 1332900000,
+            "tested": {
+                "source": "MoH Press conference with Dr. Raman G",
+                "last_updated": "2020-03-31"
+            }
+        },
+        "delta": {
+            "deceased": 6,
+            "recovered": 19,
+            "confirmed": 309,
+            "tested": 4346
+        }
+    },
+    "RJ": {
+        "total": {
+            "recovered": 3,
+            "confirmed": 93
+        },
+        "meta": {
+            "population": 77264000
+        },
+        "delta": {
+            "confirmed": 14
+        }
+    },
+    "BR": {
+        "total": {
+            "deceased": 1,
+            "confirmed": 21
+        },
+        "meta": {
+            "population": 119520000
+        },
+        "delta": {
+            "confirmed": 6
+        }
+    },
+    "UP": {
+        "total": {
+            "recovered": 17,
+            "confirmed": 104
+        },
+        "meta": {
+            "population": 224979000
+        },
+        "delta": {
+            "confirmed": 8
+        }
+    },
+    "CT": {
+        "total": {
+            "recovered": 2,
+            "confirmed": 9
+        },
+        "meta": {
+            "population": 28724000
+        },
+        "delta": {
+            "recovered": 2,
+            "confirmed": 1
+        }
+    },
+    "JK": {
+        "total": {
+            "deceased": 2,
+            "recovered": 1,
+            "confirmed": 55
+        },
+        "meta": {
+            "population": 13203000
+        },
+        "delta": {
+            "deceased": 1,
+            "confirmed": 6
+        }
+    },
+    "WB": {
+        "total": {
+            "deceased": 3,
+            "recovered": 3,
+            "confirmed": 37
+        },
+        "meta": {
+            "population": 96906000
+        },
+        "delta": {
+            "deceased": 1,
+            "recovered": 3,
+            "confirmed": 15
+        }
+    },
+    "LA": {
+        "total": {
+            "recovered": 3,
+            "confirmed": 13
+        },
+        "meta": {
+            "population": 293000
+        }
+    },
+    "HR": {
+        "total": {
+            "recovered": 24,
+            "confirmed": 43
+        },
+        "meta": {
+            "population": 28672000
+        },
+        "delta": {
+            "recovered": 4,
+            "confirmed": 7
+        }
+    },
+    "HP": {
+        "total": {
+            "deceased": 1,
+            "other": 3,
+            "confirmed": 3,
+            "recovered": 1
+        },
+        "meta": {
+            "population": 7300000
+        }
+    },
+    "MP": {
+        "total": {
+            "deceased": 5,
+            "confirmed": 66
+        },
+        "meta": {
+            "population": 82232000
+        },
+        "delta": {
+            "deceased": 1,
+            "confirmed": 19
+        }
+    },
+    "GJ": {
+        "total": {
+            "deceased": 6,
+            "recovered": 5,
+            "confirmed": 74
+        },
+        "meta": {
+            "population": 67936000
+        },
+        "delta": {
+            "recovered": 2,
+            "confirmed": 4
+        }
+    },
+    "TG": {
+        "total": {
+            "deceased": 6,
+            "recovered": 14,
+            "confirmed": 97
+        },
+        "districts": {
+            "Unknown": {
+                "total": {
+                    "deceased": 6,
+                    "recovered": 14,
+                    "confirmed": 97
+                },
+                "delta": {
+                    "confirmed": 20
+                }
+            }
+        },
+        "delta": {
+            "confirmed": 20
+        },
+        "meta": {
+            "population": 37220000
+        }
+    },
+    "PB": {
+        "total": {
+            "deceased": 4,
+            "recovered": 1,
+            "confirmed": 42
+        },
+        "meta": {
+            "population": 29859000
+        },
+        "delta": {
+            "deceased": 1,
+            "confirmed": 1
+        }
+    },
+    "AP": {
+        "total": {
+            "recovered": 1,
+            "confirmed": 44
+        },
+        "meta": {
+            "population": 52221000
+        },
+        "delta": {
+            "confirmed": 21
+        }
+    },
+    "JH": {
+        "total": {
+            "confirmed": 1
+        },
+        "meta": {
+            "population": 37403000
+        },
+        "delta": {
+            "confirmed": 1
+        }
+    },
+    "KL": {
+        "total": {
+            "deceased": 2,
+            "recovered": 24,
+            "confirmed": 241
+        },
+        "meta": {
+            "population": 35125000
+        },
+        "delta": {
+            "deceased": 1,
+            "recovered": 4,
+            "confirmed": 7
+        }
+    },
+    "TN": {
+        "total": {
+            "deceased": 1,
+            "recovered": 6,
+            "confirmed": 124
+        },
+        "meta": {
+            "population": 75695000
+        },
+        "delta": {
+            "recovered": 2,
+            "confirmed": 57
+        }
+    },
+    "GA": {
+        "total": {
+            "confirmed": 5
+        },
+        "meta": {
+            "population": 1540000
+        }
+    },
+    "CH": {
+        "total": {
+            "confirmed": 15
+        },
+        "districts": {
+            "Chandigarh": {
+                "total": {
+                    "confirmed": 15
+                },
+                "meta": {
+                    "population": 1055450
+                },
+                "delta": {
+                    "confirmed": 2
+                }
+            }
+        },
+        "delta": {
+            "confirmed": 2
+        },
+        "meta": {
+            "population": 1179000
+        }
+    }
+}

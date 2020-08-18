@@ -1,0 +1,22 @@
+{
+    "total": {
+        "deceased": 24,
+        "confirmed": 2186,
+        "recovered": 1032,
+        "active": 1130,
+        "tested": 28129
+    },
+    "delta": {
+        "deceased": 2,
+        "confirmed": 149,
+        "recovered": 108,
+        "active": 39,
+        "tested": 156
+    },
+    "meta": {
+        "tested": {
+            "source": "https://dhs.andaman.gov.in/NewEvents/362.pdf",
+            "last_updated": "2020-08-14"
+        }
+    }
+}
