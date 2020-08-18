@@ -12,10 +12,11 @@ version = '1.0.0'
 url = "https://api.covid19india.org/v4/data-YYYY-MM-DD.json"
 state_district_map = dict()
 state_parent_dir = '../data/json/districtwise/'
+
 def download_raw_daily_data():
 	force_refresh = 1
 	date = datetime.today()
-	makedirs("../data/raw/daily/")
+	makedirs("../data/raw/daily/", exist_ok=True)
 	print("Downloading raw daily data\nForce Refreshed:")
 	for i in progressBar(range(force_refresh)):
 		# sleep(0.2)
@@ -108,15 +109,6 @@ def close_all_daily_district_files():
 def main():
 	download_raw_daily_data()
 	process_raw_daily_files()
-	# data = download_json_data(url)
-	# print(data)
-	# statecodes = list(list(data.values())[0][0].keys())
-	# statecodes.remove('status')
-	# statecodes.remove('date')
-	# # for x in data.values():
-	# 	print(x)
-	# for statecode in progressBar(statecodes):
-	# 	create_json_statwise(data, statecode)
 
 if __name__ == "__main__":
 	main()
