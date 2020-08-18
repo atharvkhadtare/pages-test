@@ -1,0 +1,23 @@
+{
+    "total": {
+        "deceased": 3881,
+        "confirmed": 132275,
+        "recovered": 117507,
+        "active": 10887,
+        "tested": 976827
+    },
+    "delta": {
+        "deceased": 28,
+        "confirmed": 1056,
+        "recovered": 1135,
+        "active": -107,
+        "tested": 18544
+    },
+    "meta": {
+        "population": 19814000,
+        "tested": {
+            "source": "https://twitter.com/ANI/status/1288092125406486533?s=20",
+            "last_updated": "2020-07-28"
+        }
+    }
+}

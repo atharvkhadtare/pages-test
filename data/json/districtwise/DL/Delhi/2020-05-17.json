@@ -1,0 +1,23 @@
+{
+    "total": {
+        "deceased": 148,
+        "confirmed": 9755,
+        "recovered": 4202,
+        "active": 5405,
+        "tested": 135791
+    },
+    "delta": {
+        "deceased": 19,
+        "confirmed": 422,
+        "recovered": 276,
+        "active": 127,
+        "tested": 4946
+    },
+    "meta": {
+        "population": 19814000,
+        "tested": {
+            "source": "https://t.me/indiacovid/4931?single",
+            "last_updated": "2020-05-17"
+        }
+    }
+}

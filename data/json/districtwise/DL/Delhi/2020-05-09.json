@@ -1,0 +1,23 @@
+{
+    "total": {
+        "deceased": 68,
+        "confirmed": 6542,
+        "recovered": 2020,
+        "active": 4454,
+        "tested": 84226
+    },
+    "delta": {
+        "deceased": 0,
+        "tested": 2859,
+        "confirmed": 224,
+        "recovered": 0,
+        "active": 224
+    },
+    "meta": {
+        "population": 19814000,
+        "tested": {
+            "source": "https://delhifightscorona.in/wp-content/uploads/2020/05/Delhi-Health-Bulletin_COVID-19-09.05.2020.pdf",
+            "last_updated": "2020-05-09"
+        }
+    }
+}

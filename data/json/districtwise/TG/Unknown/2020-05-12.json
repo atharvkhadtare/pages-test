@@ -1,0 +1,21 @@
+{
+    "total": {
+        "deceased": 32,
+        "confirmed": 1326,
+        "recovered": 822,
+        "active": 472,
+        "tested": 19278
+    },
+    "delta": {
+        "deceased": 2,
+        "confirmed": 51,
+        "recovered": 21,
+        "active": 28
+    },
+    "meta": {
+        "tested": {
+            "source": "http://124.124.103.93/COVID/home.htm",
+            "last_updated": "2020-04-29"
+        }
+    }
+}
