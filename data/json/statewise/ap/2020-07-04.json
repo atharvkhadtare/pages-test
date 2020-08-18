@@ -1,12 +1,12 @@
 {
-    "delta": {
-        "Confirmed": 765,
-        "Recovered": 376,
-        "Deceased": 12,
-        "Active": 377
-    },
-    "Confirmed": 17699,
-    "Recovered": 8008,
     "Deceased": 218,
-    "Active": 9473
+    "Active": 9473,
+    "delta": {
+        "Deceased": 12,
+        "Active": 377,
+        "Confirmed": 765,
+        "Recovered": 376
+    },
+    "Recovered": 8008,
+    "Confirmed": 17699
 }

@@ -1,0 +1,22 @@
+{
+    "total": {
+        "deceased": 9,
+        "confirmed": 669,
+        "recovered": 21,
+        "active": 639,
+        "tested": 9041
+    },
+    "delta": {
+        "deceased": 0,
+        "confirmed": 93,
+        "recovered": 1,
+        "active": 92
+    },
+    "meta": {
+        "population": 19814000,
+        "tested": {
+            "source": "http://health.delhigovt.nic.in/wps/wcm/connect/ed4d3d804dd60b488b60ff982ee7a5c7/HB07A.pdf?MOD=AJPERES&lmod=1435478287&CACHEID=ed4d3d804dd60b488b60ff982ee7a5c7",
+            "last_updated": "2020-04-07"
+        }
+    }
+}

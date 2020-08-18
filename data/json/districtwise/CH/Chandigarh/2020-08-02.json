@@ -1,0 +1,25 @@
+{
+    "total": {
+        "deceased": 19,
+        "other": 1,
+        "confirmed": 1117,
+        "active": 400,
+        "tested": 14493,
+        "recovered": 698
+    },
+    "delta": {
+        "deceased": 1,
+        "other": 1,
+        "confirmed": 38,
+        "active": 22,
+        "tested": 254,
+        "recovered": 15
+    },
+    "meta": {
+        "population": 1055450,
+        "tested": {
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1507",
+            "last_updated": "2020-08-02"
+        }
+    }
+}

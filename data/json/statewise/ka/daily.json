@@ -1,1850 +1,1886 @@
 {
     "2020-03-14": {
-        "delta": {
-            "Confirmed": 6,
-            "Recovered": 0,
-            "Deceased": 1,
-            "Active": 5
-        },
-        "Confirmed": 6,
-        "Recovered": 0,
         "Deceased": 1,
-        "Active": 5
+        "Active": 5,
+        "delta": {
+            "Deceased": 1,
+            "Active": 5,
+            "Confirmed": 6,
+            "Recovered": 0
+        },
+        "Recovered": 0,
+        "Confirmed": 6
     },
     "2020-03-15": {
-        "delta": {
-            "Confirmed": 0,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 0
-        },
-        "Confirmed": 6,
-        "Recovered": 0,
         "Deceased": 1,
-        "Active": 5
+        "Active": 5,
+        "delta": {
+            "Deceased": 0,
+            "Active": 0,
+            "Confirmed": 0,
+            "Recovered": 0
+        },
+        "Recovered": 0,
+        "Confirmed": 6
     },
     "2020-03-16": {
-        "delta": {
-            "Confirmed": 1,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 1
-        },
-        "Confirmed": 7,
-        "Recovered": 0,
         "Deceased": 1,
-        "Active": 6
+        "Active": 6,
+        "delta": {
+            "Deceased": 0,
+            "Active": 1,
+            "Confirmed": 1,
+            "Recovered": 0
+        },
+        "Recovered": 0,
+        "Confirmed": 7
     },
     "2020-03-17": {
-        "delta": {
-            "Confirmed": 2,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 2
-        },
-        "Confirmed": 9,
-        "Recovered": 0,
         "Deceased": 1,
-        "Active": 8
+        "Active": 8,
+        "delta": {
+            "Deceased": 0,
+            "Active": 2,
+            "Confirmed": 2,
+            "Recovered": 0
+        },
+        "Recovered": 0,
+        "Confirmed": 9
     },
     "2020-03-18": {
-        "delta": {
-            "Confirmed": 5,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 5
-        },
-        "Confirmed": 14,
-        "Recovered": 0,
         "Deceased": 1,
-        "Active": 13
+        "Active": 13,
+        "delta": {
+            "Deceased": 0,
+            "Active": 5,
+            "Confirmed": 5,
+            "Recovered": 0
+        },
+        "Recovered": 0,
+        "Confirmed": 14
     },
     "2020-03-19": {
-        "delta": {
-            "Confirmed": 1,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 1
-        },
-        "Confirmed": 15,
-        "Recovered": 0,
         "Deceased": 1,
-        "Active": 14
+        "Active": 14,
+        "delta": {
+            "Deceased": 0,
+            "Active": 1,
+            "Confirmed": 1,
+            "Recovered": 0
+        },
+        "Recovered": 0,
+        "Confirmed": 15
     },
     "2020-03-20": {
-        "delta": {
-            "Confirmed": 0,
-            "Recovered": 1,
-            "Deceased": 0,
-            "Active": -1
-        },
-        "Confirmed": 15,
-        "Recovered": 1,
         "Deceased": 1,
-        "Active": 13
+        "Active": 13,
+        "delta": {
+            "Deceased": 0,
+            "Active": -1,
+            "Confirmed": 0,
+            "Recovered": 1
+        },
+        "Recovered": 1,
+        "Confirmed": 15
     },
     "2020-03-21": {
-        "delta": {
-            "Confirmed": 5,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 5
-        },
-        "Confirmed": 20,
-        "Recovered": 1,
         "Deceased": 1,
-        "Active": 18
+        "Active": 18,
+        "delta": {
+            "Deceased": 0,
+            "Active": 5,
+            "Confirmed": 5,
+            "Recovered": 0
+        },
+        "Recovered": 1,
+        "Confirmed": 20
     },
     "2020-03-22": {
-        "delta": {
-            "Confirmed": 6,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 6
-        },
-        "Confirmed": 26,
-        "Recovered": 1,
         "Deceased": 1,
-        "Active": 24
+        "Active": 24,
+        "delta": {
+            "Deceased": 0,
+            "Active": 6,
+            "Confirmed": 6,
+            "Recovered": 0
+        },
+        "Recovered": 1,
+        "Confirmed": 26
     },
     "2020-03-23": {
-        "delta": {
-            "Confirmed": 7,
-            "Recovered": 1,
-            "Deceased": 0,
-            "Active": 6
-        },
-        "Confirmed": 33,
-        "Recovered": 2,
         "Deceased": 1,
-        "Active": 30
+        "Active": 30,
+        "delta": {
+            "Deceased": 0,
+            "Active": 6,
+            "Confirmed": 7,
+            "Recovered": 1
+        },
+        "Recovered": 2,
+        "Confirmed": 33
     },
     "2020-03-24": {
-        "delta": {
-            "Confirmed": 8,
-            "Recovered": 1,
-            "Deceased": 0,
-            "Active": 7
-        },
-        "Confirmed": 41,
-        "Recovered": 3,
         "Deceased": 1,
-        "Active": 37
+        "Active": 37,
+        "delta": {
+            "Deceased": 0,
+            "Active": 7,
+            "Confirmed": 8,
+            "Recovered": 1
+        },
+        "Recovered": 3,
+        "Confirmed": 41
     },
     "2020-03-25": {
-        "delta": {
-            "Confirmed": 10,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 10
-        },
-        "Confirmed": 51,
-        "Recovered": 3,
         "Deceased": 1,
-        "Active": 47
+        "Active": 47,
+        "delta": {
+            "Deceased": 0,
+            "Active": 10,
+            "Confirmed": 10,
+            "Recovered": 0
+        },
+        "Recovered": 3,
+        "Confirmed": 51
     },
     "2020-03-26": {
-        "delta": {
-            "Confirmed": 4,
-            "Recovered": 0,
-            "Deceased": 1,
-            "Active": 3
-        },
-        "Confirmed": 55,
-        "Recovered": 3,
         "Deceased": 2,
-        "Active": 50
+        "Active": 50,
+        "delta": {
+            "Deceased": 1,
+            "Active": 3,
+            "Confirmed": 4,
+            "Recovered": 0
+        },
+        "Recovered": 3,
+        "Confirmed": 55
     },
     "2020-03-27": {
-        "delta": {
-            "Confirmed": 9,
-            "Recovered": 2,
-            "Deceased": 1,
-            "Active": 6
-        },
-        "Confirmed": 64,
-        "Recovered": 5,
         "Deceased": 3,
-        "Active": 56
+        "Active": 56,
+        "delta": {
+            "Deceased": 1,
+            "Active": 6,
+            "Confirmed": 9,
+            "Recovered": 2
+        },
+        "Recovered": 5,
+        "Confirmed": 64
     },
     "2020-03-28": {
-        "delta": {
-            "Confirmed": 17,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 17
-        },
-        "Confirmed": 81,
-        "Recovered": 5,
         "Deceased": 3,
-        "Active": 73
+        "Active": 73,
+        "delta": {
+            "Deceased": 0,
+            "Active": 17,
+            "Confirmed": 17,
+            "Recovered": 0
+        },
+        "Recovered": 5,
+        "Confirmed": 81
     },
     "2020-03-29": {
-        "delta": {
-            "Confirmed": 2,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 2
-        },
-        "Confirmed": 83,
-        "Recovered": 5,
         "Deceased": 3,
-        "Active": 75
+        "Active": 75,
+        "delta": {
+            "Deceased": 0,
+            "Active": 2,
+            "Confirmed": 2,
+            "Recovered": 0
+        },
+        "Recovered": 5,
+        "Confirmed": 83
     },
     "2020-03-30": {
-        "delta": {
-            "Confirmed": 5,
-            "Recovered": 1,
-            "Deceased": 0,
-            "Active": 4
-        },
-        "Confirmed": 88,
-        "Recovered": 6,
         "Deceased": 3,
-        "Active": 79
+        "Active": 79,
+        "delta": {
+            "Deceased": 0,
+            "Active": 4,
+            "Confirmed": 5,
+            "Recovered": 1
+        },
+        "Recovered": 6,
+        "Confirmed": 88
     },
     "2020-03-31": {
-        "delta": {
-            "Confirmed": 13,
-            "Recovered": 2,
-            "Deceased": 0,
-            "Active": 11
-        },
-        "Confirmed": 101,
-        "Recovered": 8,
         "Deceased": 3,
-        "Active": 90
+        "Active": 90,
+        "delta": {
+            "Deceased": 0,
+            "Active": 11,
+            "Confirmed": 13,
+            "Recovered": 2
+        },
+        "Recovered": 8,
+        "Confirmed": 101
     },
     "2020-04-01": {
-        "delta": {
-            "Confirmed": 9,
-            "Recovered": 1,
-            "Deceased": 0,
-            "Active": 8
-        },
-        "Confirmed": 110,
-        "Recovered": 9,
         "Deceased": 3,
-        "Active": 98
+        "Active": 98,
+        "delta": {
+            "Deceased": 0,
+            "Active": 8,
+            "Confirmed": 9,
+            "Recovered": 1
+        },
+        "Recovered": 9,
+        "Confirmed": 110
     },
     "2020-04-02": {
-        "delta": {
-            "Confirmed": 14,
-            "Recovered": 2,
-            "Deceased": 0,
-            "Active": 12
-        },
-        "Confirmed": 124,
-        "Recovered": 11,
         "Deceased": 3,
-        "Active": 110
+        "Active": 110,
+        "delta": {
+            "Deceased": 0,
+            "Active": 12,
+            "Confirmed": 14,
+            "Recovered": 2
+        },
+        "Recovered": 11,
+        "Confirmed": 124
     },
     "2020-04-03": {
-        "delta": {
-            "Confirmed": 4,
-            "Recovered": 0,
-            "Deceased": 1,
-            "Active": 3
-        },
-        "Confirmed": 128,
-        "Recovered": 11,
         "Deceased": 4,
-        "Active": 113
+        "Active": 113,
+        "delta": {
+            "Deceased": 1,
+            "Active": 3,
+            "Confirmed": 4,
+            "Recovered": 0
+        },
+        "Recovered": 11,
+        "Confirmed": 128
     },
     "2020-04-04": {
-        "delta": {
-            "Confirmed": 16,
-            "Recovered": 0,
-            "Deceased": 0,
-            "Active": 16
-        },
-        "Confirmed": 144,
-        "Recovered": 11,
         "Deceased": 4,
-        "Active": 129
+        "Active": 129,
+        "delta": {
+            "Deceased": 0,
+            "Active": 16,
+            "Confirmed": 16,
+            "Recovered": 0
+        },
+        "Recovered": 11,
+        "Confirmed": 144
     },
     "2020-04-05": {
-        "delta": {
-            "Confirmed": 7,
-            "Recovered": 1,
-            "Deceased": 0,
-            "Active": 6
-        },
-        "Confirmed": 151,
-        "Recovered": 12,
         "Deceased": 4,
-        "Active": 135
+        "Active": 135,
+        "delta": {
+            "Deceased": 0,
+            "Active": 6,
+            "Confirmed": 7,
+            "Recovered": 1
+        },
+        "Recovered": 12,
+        "Confirmed": 151
     },
     "2020-04-06": {
-        "delta": {
-            "Confirmed": 12,
-            "Recovered": 8,
-            "Deceased": 0,
-            "Active": 4
-        },
-        "Confirmed": 163,
-        "Recovered": 20,
         "Deceased": 4,
-        "Active": 139
+        "Active": 139,
+        "delta": {
+            "Deceased": 0,
+            "Active": 4,
+            "Confirmed": 12,
+            "Recovered": 8
+        },
+        "Recovered": 20,
+        "Confirmed": 163
     },
     "2020-04-07": {
-        "delta": {
-            "Confirmed": 12,
-            "Recovered": 5,
-            "Deceased": 0,
-            "Active": 7
-        },
-        "Confirmed": 175,
-        "Recovered": 25,
         "Deceased": 4,
-        "Active": 146
+        "Active": 146,
+        "delta": {
+            "Deceased": 0,
+            "Active": 7,
+            "Confirmed": 12,
+            "Recovered": 5
+        },
+        "Recovered": 25,
+        "Confirmed": 175
     },
     "2020-04-08": {
-        "delta": {
-            "Confirmed": 6,
-            "Recovered": 3,
-            "Deceased": 1,
-            "Active": 2
-        },
-        "Confirmed": 181,
-        "Recovered": 28,
         "Deceased": 5,
-        "Active": 148
+        "Active": 148,
+        "delta": {
+            "Deceased": 1,
+            "Active": 2,
+            "Confirmed": 6,
+            "Recovered": 3
+        },
+        "Recovered": 28,
+        "Confirmed": 181
     },
     "2020-04-09": {
-        "delta": {
-            "Confirmed": 16,
-            "Recovered": 2,
-            "Deceased": 1,
-            "Active": 13
-        },
-        "Confirmed": 197,
-        "Recovered": 30,
         "Deceased": 6,
-        "Active": 161
+        "Active": 161,
+        "delta": {
+            "Deceased": 1,
+            "Active": 13,
+            "Confirmed": 16,
+            "Recovered": 2
+        },
+        "Recovered": 30,
+        "Confirmed": 197
     },
     "2020-04-10": {
-        "delta": {
-            "Confirmed": 10,
-            "Recovered": 4,
-            "Deceased": 0,
-            "Active": 6
-        },
-        "Confirmed": 207,
-        "Recovered": 34,
         "Deceased": 6,
-        "Active": 167
+        "Active": 167,
+        "delta": {
+            "Deceased": 0,
+            "Active": 6,
+            "Confirmed": 10,
+            "Recovered": 4
+        },
+        "Recovered": 34,
+        "Confirmed": 207
     },
     "2020-04-11": {
-        "delta": {
-            "Confirmed": 8,
-            "Recovered": 5,
-            "Deceased": 0,
-            "Active": 3
-        },
-        "Confirmed": 215,
-        "Recovered": 39,
         "Deceased": 6,
-        "Active": 170
+        "Active": 170,
+        "delta": {
+            "Deceased": 0,
+            "Active": 3,
+            "Confirmed": 8,
+            "Recovered": 5
+        },
+        "Recovered": 39,
+        "Confirmed": 215
     },
     "2020-04-12": {
-        "delta": {
-            "Confirmed": 17,
-            "Recovered": 15,
-            "Deceased": 0,
-            "Active": 2
-        },
-        "Confirmed": 232,
-        "Recovered": 54,
         "Deceased": 6,
-        "Active": 172
+        "Active": 172,
+        "delta": {
+            "Deceased": 0,
+            "Active": 2,
+            "Confirmed": 17,
+            "Recovered": 15
+        },
+        "Recovered": 54,
+        "Confirmed": 232
     },
     "2020-04-13": {
-        "delta": {
-            "Confirmed": 15,
-            "Recovered": 6,
-            "Deceased": 2,
-            "Active": 7
-        },
-        "Confirmed": 247,
-        "Recovered": 60,
         "Deceased": 8,
-        "Active": 179
+        "Active": 179,
+        "delta": {
+            "Deceased": 2,
+            "Active": 7,
+            "Confirmed": 15,
+            "Recovered": 6
+        },
+        "Recovered": 60,
+        "Confirmed": 247
     },
     "2020-04-14": {
-        "delta": {
-            "Confirmed": 13,
-            "Recovered": 11,
-            "Deceased": 2,
-            "Active": 0
-        },
-        "Confirmed": 260,
-        "Recovered": 71,
         "Deceased": 10,
-        "Active": 179
+        "Active": 179,
+        "delta": {
+            "Deceased": 2,
+            "Active": 0,
+            "Confirmed": 13,
+            "Recovered": 11
+        },
+        "Recovered": 71,
+        "Confirmed": 260
     },
     "2020-04-15": {
-        "delta": {
-            "Confirmed": 19,
-            "Recovered": 9,
-            "Deceased": 2,
-            "Active": 8
-        },
-        "Confirmed": 279,
-        "Recovered": 80,
         "Deceased": 12,
-        "Active": 187
+        "Active": 187,
+        "delta": {
+            "Deceased": 2,
+            "Active": 8,
+            "Confirmed": 19,
+            "Recovered": 9
+        },
+        "Recovered": 80,
+        "Confirmed": 279
     },
     "2020-04-16": {
-        "delta": {
-            "Confirmed": 36,
-            "Recovered": 2,
-            "Deceased": 1,
-            "Active": 33
-        },
-        "Confirmed": 315,
-        "Recovered": 82,
         "Deceased": 13,
-        "Active": 220
+        "Active": 220,
+        "delta": {
+            "Deceased": 1,
+            "Active": 33,
+            "Confirmed": 36,
+            "Recovered": 2
+        },
+        "Recovered": 82,
+        "Confirmed": 315
     },
     "2020-04-17": {
-        "delta": {
-            "Confirmed": 44,
-            "Recovered": 6,
-            "Deceased": 0,
-            "Active": 38
-        },
-        "Confirmed": 359,
-        "Recovered": 88,
         "Deceased": 13,
-        "Active": 258
+        "Active": 258,
+        "delta": {
+            "Deceased": 0,
+            "Active": 38,
+            "Confirmed": 44,
+            "Recovered": 6
+        },
+        "Recovered": 88,
+        "Confirmed": 359
     },
     "2020-04-18": {
-        "delta": {
-            "Confirmed": 25,
-            "Recovered": 16,
-            "Deceased": 1,
-            "Active": 8
-        },
-        "Confirmed": 384,
-        "Recovered": 104,
         "Deceased": 14,
-        "Active": 266
+        "Active": 266,
+        "delta": {
+            "Deceased": 1,
+            "Active": 8,
+            "Confirmed": 25,
+            "Recovered": 16
+        },
+        "Recovered": 104,
+        "Confirmed": 384
     },
     "2020-04-19": {
-        "delta": {
-            "Confirmed": 6,
-            "Recovered": 7,
-            "Deceased": 2,
-            "Active": -3
-        },
-        "Confirmed": 390,
-        "Recovered": 111,
         "Deceased": 16,
-        "Active": 263
+        "Active": 263,
+        "delta": {
+            "Deceased": 2,
+            "Active": -3,
+            "Confirmed": 6,
+            "Recovered": 7
+        },
+        "Recovered": 111,
+        "Confirmed": 390
     },
     "2020-04-20": {
-        "delta": {
-            "Confirmed": 18,
-            "Recovered": 1,
-            "Deceased": 0,
-            "Active": 17
-        },
-        "Confirmed": 408,
-        "Recovered": 112,
         "Deceased": 16,
-        "Active": 280
+        "Active": 280,
+        "delta": {
+            "Deceased": 0,
+            "Active": 17,
+            "Confirmed": 18,
+            "Recovered": 1
+        },
+        "Recovered": 112,
+        "Confirmed": 408
     },
     "2020-04-21": {
-        "delta": {
-            "Confirmed": 10,
-            "Recovered": 17,
-            "Deceased": 1,
-            "Active": -8
-        },
-        "Confirmed": 418,
-        "Recovered": 129,
         "Deceased": 17,
-        "Active": 272
+        "Active": 272,
+        "delta": {
+            "Deceased": 1,
+            "Active": -8,
+            "Confirmed": 10,
+            "Recovered": 17
+        },
+        "Recovered": 129,
+        "Confirmed": 418
     },
     "2020-04-22": {
-        "delta": {
-            "Confirmed": 9,
-            "Recovered": 2,
-            "Deceased": 0,
-            "Active": 7
-        },
-        "Confirmed": 427,
-        "Recovered": 131,
         "Deceased": 17,
-        "Active": 279
+        "Active": 279,
+        "delta": {
+            "Deceased": 0,
+            "Active": 7,
+            "Confirmed": 9,
+            "Recovered": 2
+        },
+        "Recovered": 131,
+        "Confirmed": 427
     },
     "2020-04-23": {
-        "delta": {
-            "Confirmed": 18,
-            "Recovered": 14,
-            "Deceased": 0,
-            "Active": 4
-        },
-        "Confirmed": 445,
-        "Recovered": 145,
         "Deceased": 17,
-        "Active": 283
+        "Active": 283,
+        "delta": {
+            "Deceased": 0,
+            "Active": 4,
+            "Confirmed": 18,
+            "Recovered": 14
+        },
+        "Recovered": 145,
+        "Confirmed": 445
     },
     "2020-04-24": {
-        "delta": {
-            "Confirmed": 29,
-            "Recovered": 7,
-            "Deceased": 1,
-            "Active": 21
-        },
-        "Confirmed": 474,
-        "Recovered": 152,
         "Deceased": 18,
-        "Active": 304
+        "Active": 304,
+        "delta": {
+            "Deceased": 1,
+            "Active": 21,
+            "Confirmed": 29,
+            "Recovered": 7
+        },
+        "Recovered": 152,
+        "Confirmed": 474
     },
     "2020-04-25": {
-        "delta": {
-            "Confirmed": 26,
-            "Recovered": 6,
-            "Deceased": 0,
-            "Active": 20
-        },
-        "Confirmed": 500,
-        "Recovered": 158,
         "Deceased": 18,
-        "Active": 324
+        "Active": 324,
+        "delta": {
+            "Deceased": 0,
+            "Active": 20,
+            "Confirmed": 26,
+            "Recovered": 6
+        },
+        "Recovered": 158,
+        "Confirmed": 500
     },
     "2020-04-26": {
-        "delta": {
-            "Confirmed": 3,
-            "Recovered": 24,
-            "Deceased": 1,
-            "Active": -22
-        },
-        "Confirmed": 503,
-        "Recovered": 182,
         "Deceased": 19,
-        "Active": 302
+        "Active": 302,
+        "delta": {
+            "Deceased": 1,
+            "Active": -22,
+            "Confirmed": 3,
+            "Recovered": 24
+        },
+        "Recovered": 182,
+        "Confirmed": 503
     },
     "2020-04-27": {
-        "delta": {
-            "Confirmed": 9,
-            "Recovered": 11,
-            "Deceased": 1,
-            "Active": -3
-        },
-        "Confirmed": 512,
-        "Recovered": 193,
         "Deceased": 20,
-        "Active": 299
+        "Active": 299,
+        "delta": {
+            "Deceased": 1,
+            "Active": -3,
+            "Confirmed": 9,
+            "Recovered": 11
+        },
+        "Recovered": 193,
+        "Confirmed": 512
     },
     "2020-04-28": {
-        "delta": {
-            "Confirmed": 11,
-            "Recovered": 14,
-            "Deceased": 0,
-            "Active": -3
-        },
-        "Confirmed": 523,
-        "Recovered": 207,
         "Deceased": 20,
-        "Active": 296
+        "Active": 296,
+        "delta": {
+            "Deceased": 0,
+            "Active": -3,
+            "Confirmed": 11,
+            "Recovered": 14
+        },
+        "Recovered": 207,
+        "Confirmed": 523
     },
     "2020-04-29": {
-        "delta": {
-            "Confirmed": 12,
-            "Recovered": 9,
-            "Deceased": 1,
-            "Active": 2
-        },
-        "Confirmed": 535,
-        "Recovered": 216,
         "Deceased": 21,
-        "Active": 298
+        "Active": 298,
+        "delta": {
+            "Deceased": 1,
+            "Active": 2,
+            "Confirmed": 12,
+            "Recovered": 9
+        },
+        "Recovered": 216,
+        "Confirmed": 535
     },
     "2020-04-30": {
-        "delta": {
-            "Confirmed": 30,
-            "Recovered": 13,
-            "Deceased": 1,
-            "Active": 16
-        },
-        "Confirmed": 565,
-        "Recovered": 229,
         "Deceased": 22,
-        "Active": 314
+        "Active": 314,
+        "delta": {
+            "Deceased": 1,
+            "Active": 16,
+            "Confirmed": 30,
+            "Recovered": 13
+        },
+        "Recovered": 229,
+        "Confirmed": 565
     },
     "2020-05-01": {
-        "delta": {
-            "Confirmed": 24,
-            "Recovered": 22,
-            "Deceased": 0,
-            "Active": 2
-        },
-        "Confirmed": 589,
-        "Recovered": 251,
         "Deceased": 22,
-        "Active": 316
+        "Active": 316,
+        "delta": {
+            "Deceased": 0,
+            "Active": 2,
+            "Confirmed": 24,
+            "Recovered": 22
+        },
+        "Recovered": 251,
+        "Confirmed": 589
     },
     "2020-05-02": {
-        "delta": {
-            "Confirmed": 12,
-            "Recovered": 20,
-            "Deceased": 3,
-            "Active": -11
-        },
-        "Confirmed": 601,
-        "Recovered": 271,
         "Deceased": 25,
-        "Active": 305
+        "Active": 305,
+        "delta": {
+            "Deceased": 3,
+            "Active": -11,
+            "Confirmed": 12,
+            "Recovered": 20
+        },
+        "Recovered": 271,
+        "Confirmed": 601
     },
     "2020-05-03": {
-        "delta": {
-            "Confirmed": 13,
-            "Recovered": 22,
-            "Deceased": 0,
-            "Active": -9
-        },
-        "Confirmed": 614,
-        "Recovered": 293,
         "Deceased": 25,
-        "Active": 296
+        "Active": 296,
+        "delta": {
+            "Deceased": 0,
+            "Active": -9,
+            "Confirmed": 13,
+            "Recovered": 22
+        },
+        "Recovered": 293,
+        "Confirmed": 614
     },
     "2020-05-04": {
-        "delta": {
-            "Confirmed": 37,
-            "Recovered": 28,
-            "Deceased": 2,
-            "Active": 7
-        },
-        "Confirmed": 651,
-        "Recovered": 321,
         "Deceased": 27,
-        "Active": 303
+        "Active": 303,
+        "delta": {
+            "Deceased": 2,
+            "Active": 7,
+            "Confirmed": 37,
+            "Recovered": 28
+        },
+        "Recovered": 321,
+        "Confirmed": 651
     },
     "2020-05-05": {
-        "delta": {
-            "Confirmed": 22,
-            "Recovered": 10,
-            "Deceased": 2,
-            "Active": 10
-        },
-        "Confirmed": 673,
-        "Recovered": 331,
         "Deceased": 29,
-        "Active": 313
+        "Active": 313,
+        "delta": {
+            "Deceased": 2,
+            "Active": 10,
+            "Confirmed": 22,
+            "Recovered": 10
+        },
+        "Recovered": 331,
+        "Confirmed": 673
     },
     "2020-05-06": {
-        "delta": {
-            "Confirmed": 20,
-            "Recovered": 23,
-            "Deceased": 0,
-            "Active": -3
-        },
-        "Confirmed": 693,
-        "Recovered": 354,
         "Deceased": 29,
-        "Active": 310
+        "Active": 310,
+        "delta": {
+            "Deceased": 0,
+            "Active": -3,
+            "Confirmed": 20,
+            "Recovered": 23
+        },
+        "Recovered": 354,
+        "Confirmed": 693
     },
     "2020-05-07": {
-        "delta": {
-            "Confirmed": 12,
-            "Recovered": 12,
-            "Deceased": 1,
-            "Active": -1
-        },
-        "Confirmed": 705,
-        "Recovered": 366,
         "Deceased": 30,
-        "Active": 309
+        "Active": 309,
+        "delta": {
+            "Deceased": 1,
+            "Active": -1,
+            "Confirmed": 12,
+            "Recovered": 12
+        },
+        "Recovered": 366,
+        "Confirmed": 705
     },
     "2020-05-08": {
-        "delta": {
-            "Confirmed": 48,
-            "Recovered": 10,
-            "Deceased": 0,
-            "Active": 38
-        },
-        "Confirmed": 753,
-        "Recovered": 376,
         "Deceased": 30,
-        "Active": 347
+        "Active": 347,
+        "delta": {
+            "Deceased": 0,
+            "Active": 38,
+            "Confirmed": 48,
+            "Recovered": 10
+        },
+        "Recovered": 376,
+        "Confirmed": 753
     },
     "2020-05-09": {
-        "delta": {
-            "Confirmed": 41,
-            "Recovered": 10,
-            "Deceased": 0,
-            "Active": 31
-        },
-        "Confirmed": 794,
-        "Recovered": 386,
         "Deceased": 30,
-        "Active": 378
+        "Active": 378,
+        "delta": {
+            "Deceased": 0,
+            "Active": 31,
+            "Confirmed": 41,
+            "Recovered": 10
+        },
+        "Recovered": 386,
+        "Confirmed": 794
     },
     "2020-05-10": {
-        "delta": {
-            "Confirmed": 54,
-            "Recovered": 36,
-            "Deceased": 1,
-            "Active": 17
-        },
-        "Confirmed": 848,
-        "Recovered": 422,
         "Deceased": 31,
-        "Active": 395
+        "Active": 395,
+        "delta": {
+            "Deceased": 1,
+            "Active": 17,
+            "Confirmed": 54,
+            "Recovered": 36
+        },
+        "Recovered": 422,
+        "Confirmed": 848
     },
     "2020-05-11": {
-        "delta": {
-            "Confirmed": 14,
-            "Recovered": 4,
-            "Deceased": 0,
-            "Active": 10
-        },
-        "Confirmed": 862,
-        "Recovered": 426,
         "Deceased": 31,
-        "Active": 405
+        "Active": 405,
+        "delta": {
+            "Deceased": 0,
+            "Active": 10,
+            "Confirmed": 14,
+            "Recovered": 4
+        },
+        "Recovered": 426,
+        "Confirmed": 862
     },
     "2020-05-12": {
-        "delta": {
-            "Confirmed": 63,
-            "Recovered": 7,
-            "Deceased": 0,
-            "Active": 56
-        },
-        "Confirmed": 925,
-        "Recovered": 433,
         "Deceased": 31,
-        "Active": 461
+        "Active": 461,
+        "delta": {
+            "Deceased": 0,
+            "Active": 56,
+            "Confirmed": 63,
+            "Recovered": 7
+        },
+        "Recovered": 433,
+        "Confirmed": 925
     },
     "2020-05-13": {
-        "delta": {
-            "Confirmed": 34,
-            "Recovered": 18,
-            "Deceased": 2,
-            "Active": 14
-        },
-        "Confirmed": 959,
-        "Recovered": 451,
         "Deceased": 33,
-        "Active": 475
+        "Active": 475,
+        "delta": {
+            "Deceased": 2,
+            "Active": 14,
+            "Confirmed": 34,
+            "Recovered": 18
+        },
+        "Recovered": 451,
+        "Confirmed": 959
     },
     "2020-05-14": {
-        "delta": {
-            "Confirmed": 28,
-            "Recovered": 9,
-            "Deceased": 2,
-            "Active": 17
-        },
-        "Confirmed": 987,
-        "Recovered": 460,
         "Deceased": 35,
-        "Active": 492
+        "Active": 492,
+        "delta": {
+            "Deceased": 2,
+            "Active": 17,
+            "Confirmed": 28,
+            "Recovered": 9
+        },
+        "Recovered": 460,
+        "Confirmed": 987
     },
     "2020-05-15": {
-        "delta": {
-            "Confirmed": 69,
-            "Recovered": 20,
-            "Deceased": 1,
-            "Active": 48
-        },
-        "Confirmed": 1056,
-        "Recovered": 480,
         "Deceased": 36,
-        "Active": 540
+        "Active": 540,
+        "delta": {
+            "Deceased": 1,
+            "Active": 48,
+            "Confirmed": 69,
+            "Recovered": 20
+        },
+        "Recovered": 480,
+        "Confirmed": 1056
     },
     "2020-05-16": {
-        "delta": {
-            "Confirmed": 36,
-            "Recovered": 16,
-            "Deceased": 0,
-            "Active": 20
-        },
-        "Confirmed": 1092,
-        "Recovered": 496,
         "Deceased": 36,
-        "Active": 560
+        "Active": 560,
+        "delta": {
+            "Deceased": 0,
+            "Active": 20,
+            "Confirmed": 36,
+            "Recovered": 16
+        },
+        "Recovered": 496,
+        "Confirmed": 1092
     },
     "2020-05-17": {
-        "delta": {
-            "Confirmed": 55,
-            "Recovered": 13,
-            "Deceased": 1,
-            "Active": 41
-        },
-        "Confirmed": 1147,
-        "Recovered": 509,
         "Deceased": 37,
-        "Active": 601
+        "Active": 601,
+        "delta": {
+            "Deceased": 1,
+            "Active": 41,
+            "Confirmed": 55,
+            "Recovered": 13
+        },
+        "Recovered": 509,
+        "Confirmed": 1147
     },
     "2020-05-18": {
-        "delta": {
-            "Confirmed": 99,
-            "Recovered": 21,
-            "Deceased": 0,
-            "Active": 78
-        },
-        "Confirmed": 1246,
-        "Recovered": 530,
         "Deceased": 37,
-        "Active": 679
+        "Active": 679,
+        "delta": {
+            "Deceased": 0,
+            "Active": 78,
+            "Confirmed": 99,
+            "Recovered": 21
+        },
+        "Recovered": 530,
+        "Confirmed": 1246
     },
     "2020-05-19": {
-        "delta": {
-            "Confirmed": 149,
-            "Recovered": 13,
-            "Deceased": 3,
-            "Active": 133
-        },
-        "Confirmed": 1395,
-        "Recovered": 543,
         "Deceased": 40,
-        "Active": 812
+        "Active": 812,
+        "delta": {
+            "Deceased": 3,
+            "Active": 133,
+            "Confirmed": 149,
+            "Recovered": 13
+        },
+        "Recovered": 543,
+        "Confirmed": 1395
     },
     "2020-05-20": {
-        "delta": {
-            "Confirmed": 67,
-            "Recovered": 13,
-            "Deceased": 1,
-            "Active": 53
-        },
-        "Confirmed": 1462,
-        "Recovered": 556,
         "Deceased": 41,
-        "Active": 865
+        "Active": 865,
+        "delta": {
+            "Deceased": 1,
+            "Active": 53,
+            "Confirmed": 67,
+            "Recovered": 13
+        },
+        "Recovered": 556,
+        "Confirmed": 1462
     },
     "2020-05-21": {
-        "delta": {
-            "Confirmed": 143,
-            "Recovered": 15,
-            "Deceased": 0,
-            "Active": 128
-        },
-        "Confirmed": 1605,
-        "Recovered": 571,
         "Deceased": 41,
-        "Active": 993
+        "Active": 993,
+        "delta": {
+            "Deceased": 0,
+            "Active": 128,
+            "Confirmed": 143,
+            "Recovered": 15
+        },
+        "Recovered": 571,
+        "Confirmed": 1605
     },
     "2020-05-22": {
-        "delta": {
-            "Confirmed": 138,
-            "Recovered": 26,
-            "Deceased": 0,
-            "Active": 112
-        },
-        "Confirmed": 1743,
-        "Recovered": 597,
         "Deceased": 41,
-        "Active": 1105
+        "Active": 1105,
+        "delta": {
+            "Deceased": 0,
+            "Active": 112,
+            "Confirmed": 138,
+            "Recovered": 26
+        },
+        "Recovered": 597,
+        "Confirmed": 1743
     },
     "2020-05-23": {
-        "delta": {
-            "Confirmed": 216,
-            "Recovered": 11,
-            "Deceased": 1,
-            "Active": 204
-        },
-        "Confirmed": 1959,
-        "Recovered": 608,
         "Deceased": 42,
-        "Active": 1309
+        "Active": 1309,
+        "delta": {
+            "Deceased": 1,
+            "Active": 204,
+            "Confirmed": 216,
+            "Recovered": 11
+        },
+        "Recovered": 608,
+        "Confirmed": 1959
     },
     "2020-05-24": {
-        "delta": {
-            "Confirmed": 130,
-            "Recovered": 46,
-            "Deceased": 0,
-            "Active": 84
-        },
-        "Confirmed": 2089,
-        "Recovered": 654,
         "Deceased": 42,
-        "Active": 1393
+        "Active": 1393,
+        "delta": {
+            "Deceased": 0,
+            "Active": 84,
+            "Confirmed": 130,
+            "Recovered": 46
+        },
+        "Recovered": 654,
+        "Confirmed": 2089
     },
     "2020-05-25": {
-        "delta": {
-            "Confirmed": 93,
-            "Recovered": 51,
-            "Deceased": 2,
-            "Active": 40
-        },
-        "Confirmed": 2182,
-        "Recovered": 705,
         "Deceased": 44,
-        "Active": 1433
+        "Active": 1433,
+        "delta": {
+            "Deceased": 2,
+            "Active": 40,
+            "Confirmed": 93,
+            "Recovered": 51
+        },
+        "Recovered": 705,
+        "Confirmed": 2182
     },
     "2020-05-26": {
-        "delta": {
-            "Confirmed": 101,
-            "Recovered": 59,
-            "Deceased": 0,
-            "Active": 42
-        },
-        "Confirmed": 2283,
-        "Recovered": 764,
         "Deceased": 44,
-        "Active": 1475
+        "Active": 1475,
+        "delta": {
+            "Deceased": 0,
+            "Active": 42,
+            "Confirmed": 101,
+            "Recovered": 59
+        },
+        "Recovered": 764,
+        "Confirmed": 2283
     },
     "2020-05-27": {
-        "delta": {
-            "Confirmed": 135,
-            "Recovered": 17,
-            "Deceased": 3,
-            "Active": 115
-        },
-        "Confirmed": 2418,
-        "Recovered": 781,
         "Deceased": 47,
-        "Active": 1590
+        "Active": 1590,
+        "delta": {
+            "Deceased": 3,
+            "Active": 115,
+            "Confirmed": 135,
+            "Recovered": 17
+        },
+        "Recovered": 781,
+        "Confirmed": 2418
     },
     "2020-05-28": {
-        "delta": {
-            "Confirmed": 115,
-            "Recovered": 53,
-            "Deceased": 0,
-            "Active": 62
-        },
-        "Confirmed": 2533,
-        "Recovered": 834,
         "Deceased": 47,
-        "Active": 1652
+        "Active": 1652,
+        "delta": {
+            "Deceased": 0,
+            "Active": 62,
+            "Confirmed": 115,
+            "Recovered": 53
+        },
+        "Recovered": 834,
+        "Confirmed": 2533
     },
     "2020-05-29": {
-        "delta": {
-            "Confirmed": 248,
-            "Recovered": 60,
-            "Deceased": 1,
-            "Active": 187
-        },
-        "Confirmed": 2781,
-        "Recovered": 894,
         "Deceased": 48,
-        "Active": 1839
+        "Active": 1839,
+        "delta": {
+            "Deceased": 1,
+            "Active": 187,
+            "Confirmed": 248,
+            "Recovered": 60
+        },
+        "Recovered": 894,
+        "Confirmed": 2781
     },
     "2020-05-30": {
-        "delta": {
-            "Confirmed": 141,
-            "Recovered": 103,
-            "Deceased": 1,
-            "Active": 37
-        },
-        "Confirmed": 2922,
-        "Recovered": 997,
         "Deceased": 49,
-        "Active": 1876
+        "Active": 1876,
+        "delta": {
+            "Deceased": 1,
+            "Active": 37,
+            "Confirmed": 141,
+            "Recovered": 103
+        },
+        "Recovered": 997,
+        "Confirmed": 2922
     },
     "2020-05-31": {
-        "delta": {
-            "Confirmed": 299,
-            "Recovered": 221,
-            "Deceased": 2,
-            "Active": 76
-        },
-        "Confirmed": 3221,
-        "Recovered": 1218,
         "Deceased": 51,
-        "Active": 1952
+        "Active": 1952,
+        "delta": {
+            "Deceased": 2,
+            "Active": 76,
+            "Confirmed": 299,
+            "Recovered": 221
+        },
+        "Recovered": 1218,
+        "Confirmed": 3221
     },
     "2020-06-01": {
-        "delta": {
-            "Confirmed": 187,
-            "Recovered": 100,
-            "Deceased": 1,
-            "Active": 86
-        },
-        "Confirmed": 3408,
-        "Recovered": 1318,
         "Deceased": 52,
-        "Active": 2038
+        "Active": 2038,
+        "delta": {
+            "Deceased": 1,
+            "Active": 86,
+            "Confirmed": 187,
+            "Recovered": 100
+        },
+        "Recovered": 1318,
+        "Confirmed": 3408
     },
     "2020-06-02": {
-        "delta": {
-            "Confirmed": 388,
-            "Recovered": 75,
-            "Deceased": 0,
-            "Active": 313
-        },
-        "Confirmed": 3796,
-        "Recovered": 1393,
         "Deceased": 52,
-        "Active": 2351
+        "Active": 2351,
+        "delta": {
+            "Deceased": 0,
+            "Active": 313,
+            "Confirmed": 388,
+            "Recovered": 75
+        },
+        "Recovered": 1393,
+        "Confirmed": 3796
     },
     "2020-06-03": {
-        "delta": {
-            "Confirmed": 267,
-            "Recovered": 111,
-            "Deceased": 1,
-            "Active": 155
-        },
-        "Confirmed": 4063,
-        "Recovered": 1504,
         "Deceased": 53,
-        "Active": 2506
+        "Active": 2506,
+        "delta": {
+            "Deceased": 1,
+            "Active": 155,
+            "Confirmed": 267,
+            "Recovered": 111
+        },
+        "Recovered": 1504,
+        "Confirmed": 4063
     },
     "2020-06-04": {
-        "delta": {
-            "Confirmed": 257,
-            "Recovered": 106,
-            "Deceased": 4,
-            "Active": 147
-        },
-        "Confirmed": 4320,
-        "Recovered": 1610,
         "Deceased": 57,
-        "Active": 2653
+        "Active": 2653,
+        "delta": {
+            "Deceased": 4,
+            "Active": 147,
+            "Confirmed": 257,
+            "Recovered": 106
+        },
+        "Recovered": 1610,
+        "Confirmed": 4320
     },
     "2020-06-05": {
-        "delta": {
-            "Confirmed": 515,
-            "Recovered": 83,
-            "Deceased": 0,
-            "Active": 432
-        },
-        "Confirmed": 4835,
-        "Recovered": 1693,
         "Deceased": 57,
-        "Active": 3085
+        "Active": 3085,
+        "delta": {
+            "Deceased": 0,
+            "Active": 432,
+            "Confirmed": 515,
+            "Recovered": 83
+        },
+        "Recovered": 1693,
+        "Confirmed": 4835
     },
     "2020-06-06": {
-        "delta": {
-            "Confirmed": 378,
-            "Recovered": 280,
-            "Deceased": 2,
-            "Active": 96
-        },
-        "Confirmed": 5213,
-        "Recovered": 1973,
         "Deceased": 59,
-        "Active": 3181
+        "Active": 3181,
+        "delta": {
+            "Deceased": 2,
+            "Active": 96,
+            "Confirmed": 378,
+            "Recovered": 280
+        },
+        "Recovered": 1973,
+        "Confirmed": 5213
     },
     "2020-06-07": {
-        "delta": {
-            "Confirmed": 239,
-            "Recovered": 159,
-            "Deceased": 2,
-            "Active": 78
-        },
-        "Confirmed": 5452,
-        "Recovered": 2132,
         "Deceased": 61,
-        "Active": 3259
+        "Active": 3259,
+        "delta": {
+            "Deceased": 2,
+            "Active": 78,
+            "Confirmed": 239,
+            "Recovered": 159
+        },
+        "Recovered": 2132,
+        "Confirmed": 5452
     },
     "2020-06-08": {
-        "delta": {
-            "Confirmed": 308,
-            "Recovered": 309,
-            "Deceased": 3,
-            "Active": -4
-        },
-        "Confirmed": 5760,
-        "Recovered": 2441,
         "Deceased": 64,
-        "Active": 3255
+        "Active": 3255,
+        "delta": {
+            "Deceased": 3,
+            "Active": -4,
+            "Confirmed": 308,
+            "Recovered": 309
+        },
+        "Recovered": 2441,
+        "Confirmed": 5760
     },
     "2020-06-09": {
-        "delta": {
-            "Confirmed": 161,
-            "Recovered": 164,
-            "Deceased": 2,
-            "Active": -5
-        },
-        "Confirmed": 5921,
-        "Recovered": 2605,
         "Deceased": 66,
-        "Active": 3250
+        "Active": 3250,
+        "delta": {
+            "Deceased": 2,
+            "Active": -5,
+            "Confirmed": 161,
+            "Recovered": 164
+        },
+        "Recovered": 2605,
+        "Confirmed": 5921
     },
     "2020-06-10": {
-        "delta": {
-            "Confirmed": 120,
-            "Recovered": 257,
-            "Deceased": 3,
-            "Active": -140
-        },
-        "Confirmed": 6041,
-        "Recovered": 2862,
         "Deceased": 69,
-        "Active": 3110
+        "Active": 3110,
+        "delta": {
+            "Deceased": 3,
+            "Active": -140,
+            "Confirmed": 120,
+            "Recovered": 257
+        },
+        "Recovered": 2862,
+        "Confirmed": 6041
     },
     "2020-06-11": {
-        "delta": {
-            "Confirmed": 204,
-            "Recovered": 114,
-            "Deceased": 3,
-            "Active": 87
-        },
-        "Confirmed": 6245,
-        "Recovered": 2976,
         "Deceased": 72,
-        "Active": 3197
+        "Active": 3197,
+        "delta": {
+            "Deceased": 3,
+            "Active": 87,
+            "Confirmed": 204,
+            "Recovered": 114
+        },
+        "Recovered": 2976,
+        "Confirmed": 6245
     },
     "2020-06-12": {
-        "delta": {
-            "Confirmed": 271,
-            "Recovered": 464,
-            "Deceased": 7,
-            "Active": -200
-        },
-        "Confirmed": 6516,
-        "Recovered": 3440,
         "Deceased": 79,
-        "Active": 2997
+        "Active": 2997,
+        "delta": {
+            "Deceased": 7,
+            "Active": -200,
+            "Confirmed": 271,
+            "Recovered": 464
+        },
+        "Recovered": 3440,
+        "Confirmed": 6516
     },
     "2020-06-13": {
-        "delta": {
-            "Confirmed": 308,
-            "Recovered": 208,
-            "Deceased": 3,
-            "Active": 97
-        },
-        "Confirmed": 6824,
-        "Recovered": 3648,
         "Deceased": 82,
-        "Active": 3094
+        "Active": 3094,
+        "delta": {
+            "Deceased": 3,
+            "Active": 97,
+            "Confirmed": 308,
+            "Recovered": 208
+        },
+        "Recovered": 3648,
+        "Confirmed": 6824
     },
     "2020-06-14": {
-        "delta": {
-            "Confirmed": 176,
-            "Recovered": 312,
-            "Deceased": 5,
-            "Active": -141
-        },
-        "Confirmed": 7000,
-        "Recovered": 3960,
         "Deceased": 87,
-        "Active": 2953
+        "Active": 2953,
+        "delta": {
+            "Deceased": 5,
+            "Active": -141,
+            "Confirmed": 176,
+            "Recovered": 312
+        },
+        "Recovered": 3960,
+        "Confirmed": 7000
     },
     "2020-06-15": {
-        "delta": {
-            "Confirmed": 213,
-            "Recovered": 174,
-            "Deceased": 2,
-            "Active": 37
-        },
-        "Confirmed": 7213,
-        "Recovered": 4134,
         "Deceased": 89,
-        "Active": 2990
+        "Active": 2990,
+        "delta": {
+            "Deceased": 2,
+            "Active": 37,
+            "Confirmed": 213,
+            "Recovered": 174
+        },
+        "Recovered": 4134,
+        "Confirmed": 7213
     },
     "2020-06-16": {
-        "delta": {
-            "Confirmed": 317,
-            "Recovered": 322,
-            "Deceased": 7,
-            "Active": -12
-        },
-        "Confirmed": 7530,
-        "Recovered": 4456,
         "Deceased": 96,
-        "Active": 2978
+        "Active": 2978,
+        "delta": {
+            "Deceased": 7,
+            "Active": -12,
+            "Confirmed": 317,
+            "Recovered": 322
+        },
+        "Recovered": 4456,
+        "Confirmed": 7530
     },
     "2020-06-17": {
-        "delta": {
-            "Confirmed": 204,
-            "Recovered": 348,
-            "Deceased": 8,
-            "Active": -152
-        },
-        "Confirmed": 7734,
-        "Recovered": 4804,
         "Deceased": 104,
-        "Active": 2826
+        "Active": 2826,
+        "delta": {
+            "Deceased": 8,
+            "Active": -152,
+            "Confirmed": 204,
+            "Recovered": 348
+        },
+        "Recovered": 4804,
+        "Confirmed": 7734
     },
     "2020-06-18": {
-        "delta": {
-            "Confirmed": 210,
-            "Recovered": 176,
-            "Deceased": 12,
-            "Active": 22
-        },
-        "Confirmed": 7944,
-        "Recovered": 4980,
         "Deceased": 116,
-        "Active": 2848
+        "Active": 2848,
+        "delta": {
+            "Deceased": 12,
+            "Active": 22,
+            "Confirmed": 210,
+            "Recovered": 176
+        },
+        "Recovered": 4980,
+        "Confirmed": 7944
     },
     "2020-06-19": {
-        "delta": {
-            "Confirmed": 337,
-            "Recovered": 230,
-            "Deceased": 9,
-            "Active": 98
-        },
-        "Confirmed": 8281,
-        "Recovered": 5210,
         "Deceased": 125,
-        "Active": 2946
+        "Active": 2946,
+        "delta": {
+            "Deceased": 9,
+            "Active": 98,
+            "Confirmed": 337,
+            "Recovered": 230
+        },
+        "Recovered": 5210,
+        "Confirmed": 8281
     },
     "2020-06-20": {
-        "delta": {
-            "Confirmed": 416,
-            "Recovered": 183,
-            "Deceased": 9,
-            "Active": 224
-        },
-        "Confirmed": 8697,
-        "Recovered": 5393,
         "Deceased": 134,
-        "Active": 3170
+        "Active": 3170,
+        "delta": {
+            "Deceased": 9,
+            "Active": 224,
+            "Confirmed": 416,
+            "Recovered": 183
+        },
+        "Recovered": 5393,
+        "Confirmed": 8697
     },
     "2020-06-21": {
-        "delta": {
-            "Confirmed": 453,
-            "Recovered": 226,
-            "Deceased": 5,
-            "Active": 222
-        },
-        "Confirmed": 9150,
-        "Recovered": 5619,
         "Deceased": 139,
-        "Active": 3392
+        "Active": 3392,
+        "delta": {
+            "Deceased": 5,
+            "Active": 222,
+            "Confirmed": 453,
+            "Recovered": 226
+        },
+        "Recovered": 5619,
+        "Confirmed": 9150
     },
     "2020-06-22": {
-        "delta": {
-            "Confirmed": 249,
-            "Recovered": 111,
-            "Deceased": 5,
-            "Active": 133
-        },
-        "Confirmed": 9399,
-        "Recovered": 5730,
         "Deceased": 144,
-        "Active": 3525
+        "Active": 3525,
+        "delta": {
+            "Deceased": 5,
+            "Active": 133,
+            "Confirmed": 249,
+            "Recovered": 111
+        },
+        "Recovered": 5730,
+        "Confirmed": 9399
     },
     "2020-06-23": {
-        "delta": {
-            "Confirmed": 322,
-            "Recovered": 274,
-            "Deceased": 8,
-            "Active": 40
-        },
-        "Confirmed": 9721,
-        "Recovered": 6004,
         "Deceased": 152,
-        "Active": 3565
+        "Active": 3565,
+        "delta": {
+            "Deceased": 8,
+            "Active": 40,
+            "Confirmed": 322,
+            "Recovered": 274
+        },
+        "Recovered": 6004,
+        "Confirmed": 9721
     },
     "2020-06-24": {
-        "delta": {
-            "Confirmed": 397,
-            "Recovered": 149,
-            "Deceased": 14,
-            "Active": 234
-        },
-        "Confirmed": 10118,
-        "Recovered": 6153,
         "Deceased": 166,
-        "Active": 3799
+        "Active": 3799,
+        "delta": {
+            "Deceased": 14,
+            "Active": 234,
+            "Confirmed": 397,
+            "Recovered": 149
+        },
+        "Recovered": 6153,
+        "Confirmed": 10118
     },
     "2020-06-25": {
-        "delta": {
-            "Confirmed": 442,
-            "Recovered": 519,
-            "Deceased": 6,
-            "Active": -83
-        },
-        "Confirmed": 10560,
-        "Recovered": 6672,
         "Deceased": 172,
-        "Active": 3716
+        "Active": 3716,
+        "delta": {
+            "Deceased": 6,
+            "Active": -83,
+            "Confirmed": 442,
+            "Recovered": 519
+        },
+        "Recovered": 6672,
+        "Confirmed": 10560
     },
     "2020-06-26": {
-        "delta": {
-            "Confirmed": 445,
-            "Recovered": 246,
-            "Deceased": 10,
-            "Active": 189
-        },
-        "Confirmed": 11005,
-        "Recovered": 6918,
         "Deceased": 182,
-        "Active": 3905
+        "Active": 3905,
+        "delta": {
+            "Deceased": 10,
+            "Active": 189,
+            "Confirmed": 445,
+            "Recovered": 246
+        },
+        "Recovered": 6918,
+        "Confirmed": 11005
     },
     "2020-06-27": {
-        "delta": {
-            "Confirmed": 918,
-            "Recovered": 371,
-            "Deceased": 11,
-            "Active": 536
-        },
-        "Confirmed": 11923,
-        "Recovered": 7289,
         "Deceased": 193,
-        "Active": 4441
+        "Active": 4441,
+        "delta": {
+            "Deceased": 11,
+            "Active": 536,
+            "Confirmed": 918,
+            "Recovered": 371
+        },
+        "Recovered": 7289,
+        "Confirmed": 11923
     },
     "2020-06-28": {
-        "delta": {
-            "Confirmed": 1267,
-            "Recovered": 220,
-            "Deceased": 16,
-            "Active": 1031
-        },
-        "Confirmed": 13190,
-        "Recovered": 7509,
         "Deceased": 209,
-        "Active": 5472
+        "Active": 5472,
+        "delta": {
+            "Deceased": 16,
+            "Active": 1031,
+            "Confirmed": 1267,
+            "Recovered": 220
+        },
+        "Recovered": 7509,
+        "Confirmed": 13190
     },
     "2020-06-29": {
-        "delta": {
-            "Confirmed": 1105,
-            "Recovered": 176,
-            "Deceased": 19,
-            "Active": 910
-        },
-        "Confirmed": 14295,
-        "Recovered": 7685,
         "Deceased": 228,
-        "Active": 6382
+        "Active": 6382,
+        "delta": {
+            "Deceased": 19,
+            "Active": 910,
+            "Confirmed": 1105,
+            "Recovered": 176
+        },
+        "Recovered": 7685,
+        "Confirmed": 14295
     },
     "2020-06-30": {
-        "delta": {
-            "Confirmed": 947,
-            "Recovered": 235,
-            "Deceased": 20,
-            "Active": 692
-        },
-        "Confirmed": 15242,
-        "Recovered": 7920,
         "Deceased": 248,
-        "Active": 7074
+        "Active": 7074,
+        "delta": {
+            "Deceased": 20,
+            "Active": 692,
+            "Confirmed": 947,
+            "Recovered": 235
+        },
+        "Recovered": 7920,
+        "Confirmed": 15242
     },
     "2020-07-01": {
-        "delta": {
-            "Confirmed": 1272,
-            "Recovered": 145,
-            "Deceased": 7,
-            "Active": 1120
-        },
-        "Confirmed": 16514,
-        "Recovered": 8065,
         "Deceased": 255,
-        "Active": 8194
+        "Active": 8194,
+        "delta": {
+            "Deceased": 7,
+            "Active": 1120,
+            "Confirmed": 1272,
+            "Recovered": 145
+        },
+        "Recovered": 8065,
+        "Confirmed": 16514
     },
     "2020-07-02": {
-        "delta": {
-            "Confirmed": 1502,
-            "Recovered": 271,
-            "Deceased": 19,
-            "Active": 1212
-        },
-        "Confirmed": 18016,
-        "Recovered": 8336,
         "Deceased": 274,
-        "Active": 9406
+        "Active": 9406,
+        "delta": {
+            "Deceased": 19,
+            "Active": 1212,
+            "Confirmed": 1502,
+            "Recovered": 271
+        },
+        "Recovered": 8336,
+        "Confirmed": 18016
     },
     "2020-07-03": {
-        "delta": {
-            "Confirmed": 1694,
-            "Recovered": 471,
-            "Deceased": 21,
-            "Active": 1202
-        },
-        "Confirmed": 19710,
-        "Recovered": 8807,
         "Deceased": 295,
-        "Active": 10608
+        "Active": 10608,
+        "delta": {
+            "Deceased": 21,
+            "Active": 1202,
+            "Confirmed": 1694,
+            "Recovered": 471
+        },
+        "Recovered": 8807,
+        "Confirmed": 19710
     },
     "2020-07-04": {
-        "delta": {
-            "Confirmed": 1839,
-            "Recovered": 439,
-            "Deceased": 42,
-            "Active": 1358
-        },
-        "Confirmed": 21549,
-        "Recovered": 9246,
         "Deceased": 337,
-        "Active": 11966
+        "Active": 11966,
+        "delta": {
+            "Deceased": 42,
+            "Active": 1358,
+            "Confirmed": 1839,
+            "Recovered": 439
+        },
+        "Recovered": 9246,
+        "Confirmed": 21549
     },
     "2020-07-05": {
-        "delta": {
-            "Confirmed": 1925,
-            "Recovered": 603,
-            "Deceased": 37,
-            "Active": 1285
-        },
-        "Confirmed": 23474,
-        "Recovered": 9849,
         "Deceased": 374,
-        "Active": 13251
+        "Active": 13251,
+        "delta": {
+            "Deceased": 37,
+            "Active": 1285,
+            "Confirmed": 1925,
+            "Recovered": 603
+        },
+        "Recovered": 9849,
+        "Confirmed": 23474
     },
     "2020-07-06": {
-        "delta": {
-            "Confirmed": 1843,
-            "Recovered": 680,
-            "Deceased": 30,
-            "Active": 1133
-        },
-        "Confirmed": 25317,
-        "Recovered": 10529,
         "Deceased": 404,
-        "Active": 14384
+        "Active": 14384,
+        "delta": {
+            "Deceased": 30,
+            "Active": 1133,
+            "Confirmed": 1843,
+            "Recovered": 680
+        },
+        "Recovered": 10529,
+        "Confirmed": 25317
     },
     "2020-07-07": {
-        "delta": {
-            "Confirmed": 1498,
-            "Recovered": 571,
-            "Deceased": 15,
-            "Active": 912
-        },
-        "Confirmed": 26815,
-        "Recovered": 11100,
         "Deceased": 419,
-        "Active": 15296
+        "Active": 15296,
+        "delta": {
+            "Deceased": 15,
+            "Active": 912,
+            "Confirmed": 1498,
+            "Recovered": 571
+        },
+        "Recovered": 11100,
+        "Confirmed": 26815
     },
     "2020-07-08": {
-        "delta": {
-            "Confirmed": 2062,
-            "Recovered": 778,
-            "Deceased": 54,
-            "Active": 1230
-        },
-        "Confirmed": 28877,
-        "Recovered": 11878,
         "Deceased": 473,
-        "Active": 16526
+        "Active": 16526,
+        "delta": {
+            "Deceased": 54,
+            "Active": 1230,
+            "Confirmed": 2062,
+            "Recovered": 778
+        },
+        "Recovered": 11878,
+        "Confirmed": 28877
     },
     "2020-07-09": {
-        "delta": {
-            "Confirmed": 2228,
-            "Recovered": 957,
-            "Deceased": 17,
-            "Active": 1254
-        },
-        "Confirmed": 31105,
-        "Recovered": 12835,
         "Deceased": 490,
-        "Active": 17780
+        "Active": 17780,
+        "delta": {
+            "Deceased": 17,
+            "Active": 1254,
+            "Confirmed": 2228,
+            "Recovered": 957
+        },
+        "Recovered": 12835,
+        "Confirmed": 31105
     },
     "2020-07-10": {
-        "delta": {
-            "Confirmed": 2313,
-            "Recovered": 1003,
-            "Deceased": 57,
-            "Active": 1253
-        },
-        "Confirmed": 33418,
-        "Recovered": 13838,
         "Deceased": 547,
-        "Active": 19033
+        "Active": 19033,
+        "delta": {
+            "Deceased": 57,
+            "Active": 1253,
+            "Confirmed": 2313,
+            "Recovered": 1003
+        },
+        "Recovered": 13838,
+        "Confirmed": 33418
     },
     "2020-07-11": {
-        "delta": {
-            "Confirmed": 2798,
-            "Recovered": 880,
-            "Deceased": 70,
-            "Active": 1848
-        },
-        "Confirmed": 36216,
-        "Recovered": 14718,
         "Deceased": 617,
-        "Active": 20881
+        "Active": 20881,
+        "delta": {
+            "Deceased": 70,
+            "Active": 1848,
+            "Confirmed": 2798,
+            "Recovered": 880
+        },
+        "Recovered": 14718,
+        "Confirmed": 36216
     },
     "2020-07-12": {
-        "delta": {
-            "Confirmed": 2627,
-            "Recovered": 693,
-            "Deceased": 71,
-            "Active": 1863
-        },
-        "Confirmed": 38843,
-        "Recovered": 15411,
         "Deceased": 688,
-        "Active": 22744
+        "Active": 22744,
+        "delta": {
+            "Deceased": 71,
+            "Active": 1863,
+            "Confirmed": 2627,
+            "Recovered": 693
+        },
+        "Recovered": 15411,
+        "Confirmed": 38843
     },
     "2020-07-13": {
-        "delta": {
-            "Confirmed": 2738,
-            "Recovered": 838,
-            "Deceased": 73,
-            "Active": 1827
-        },
-        "Confirmed": 41581,
-        "Recovered": 16249,
         "Deceased": 761,
-        "Active": 24571
+        "Active": 24571,
+        "delta": {
+            "Deceased": 73,
+            "Active": 1827,
+            "Confirmed": 2738,
+            "Recovered": 838
+        },
+        "Recovered": 16249,
+        "Confirmed": 41581
     },
     "2020-07-14": {
-        "delta": {
-            "Confirmed": 2496,
-            "Recovered": 1142,
-            "Deceased": 87,
-            "Active": 1267
-        },
-        "Confirmed": 44077,
-        "Recovered": 17391,
         "Deceased": 848,
-        "Active": 25838
+        "Active": 25838,
+        "delta": {
+            "Deceased": 87,
+            "Active": 1267,
+            "Confirmed": 2496,
+            "Recovered": 1142
+        },
+        "Recovered": 17391,
+        "Confirmed": 44077
     },
     "2020-07-15": {
-        "delta": {
-            "Confirmed": 3176,
-            "Recovered": 1076,
-            "Deceased": 87,
-            "Active": 2013
-        },
-        "Confirmed": 47253,
-        "Recovered": 18467,
         "Deceased": 935,
-        "Active": 27851
+        "Active": 27851,
+        "delta": {
+            "Deceased": 87,
+            "Active": 2013,
+            "Confirmed": 3176,
+            "Recovered": 1076
+        },
+        "Recovered": 18467,
+        "Confirmed": 47253
     },
     "2020-07-16": {
-        "delta": {
-            "Confirmed": 4169,
-            "Recovered": 1263,
-            "Deceased": 104,
-            "Active": 2802
-        },
-        "Confirmed": 51422,
-        "Recovered": 19730,
         "Deceased": 1039,
-        "Active": 30653
+        "Active": 30653,
+        "delta": {
+            "Deceased": 104,
+            "Active": 2802,
+            "Confirmed": 4169,
+            "Recovered": 1263
+        },
+        "Recovered": 19730,
+        "Confirmed": 51422
     },
     "2020-07-17": {
-        "delta": {
-            "Confirmed": 3693,
-            "Recovered": 1028,
-            "Deceased": 115,
-            "Active": 2550
-        },
-        "Confirmed": 55115,
-        "Recovered": 20758,
         "Deceased": 1154,
-        "Active": 33203
+        "Active": 33203,
+        "delta": {
+            "Deceased": 115,
+            "Active": 2550,
+            "Confirmed": 3693,
+            "Recovered": 1028
+        },
+        "Recovered": 20758,
+        "Confirmed": 55115
     },
     "2020-07-18": {
-        "delta": {
-            "Confirmed": 4537,
-            "Recovered": 1018,
-            "Deceased": 93,
-            "Active": 3426
-        },
-        "Confirmed": 59652,
-        "Recovered": 21776,
         "Deceased": 1247,
-        "Active": 36629
+        "Active": 36629,
+        "delta": {
+            "Deceased": 93,
+            "Active": 3426,
+            "Confirmed": 4537,
+            "Recovered": 1018
+        },
+        "Recovered": 21776,
+        "Confirmed": 59652
     },
     "2020-07-19": {
-        "delta": {
-            "Confirmed": 4120,
-            "Recovered": 1290,
-            "Deceased": 91,
-            "Active": 2739
-        },
-        "Confirmed": 63772,
-        "Recovered": 23066,
         "Deceased": 1338,
-        "Active": 39368
+        "Active": 39368,
+        "delta": {
+            "Deceased": 91,
+            "Active": 2739,
+            "Confirmed": 4120,
+            "Recovered": 1290
+        },
+        "Recovered": 23066,
+        "Confirmed": 63772
     },
     "2020-07-20": {
-        "delta": {
-            "Confirmed": 3648,
-            "Recovered": 730,
-            "Deceased": 72,
-            "Active": 2846
-        },
-        "Confirmed": 67420,
-        "Recovered": 23796,
         "Deceased": 1410,
-        "Active": 42214
+        "Active": 42214,
+        "delta": {
+            "Deceased": 72,
+            "Active": 2846,
+            "Confirmed": 3648,
+            "Recovered": 730
+        },
+        "Recovered": 23796,
+        "Confirmed": 67420
     },
     "2020-07-21": {
-        "delta": {
-            "Confirmed": 3649,
-            "Recovered": 1664,
-            "Deceased": 61,
-            "Active": 1924
-        },
-        "Confirmed": 71069,
-        "Recovered": 25460,
         "Deceased": 1471,
-        "Active": 44138
+        "Active": 44138,
+        "delta": {
+            "Deceased": 61,
+            "Active": 1924,
+            "Confirmed": 3649,
+            "Recovered": 1664
+        },
+        "Recovered": 25460,
+        "Confirmed": 71069
     },
     "2020-07-22": {
-        "delta": {
-            "Confirmed": 4764,
-            "Recovered": 1780,
-            "Deceased": 55,
-            "Active": 2929
-        },
-        "Confirmed": 75833,
-        "Recovered": 27240,
         "Deceased": 1526,
-        "Active": 47067
+        "Active": 47067,
+        "delta": {
+            "Deceased": 55,
+            "Active": 2929,
+            "Confirmed": 4764,
+            "Recovered": 1780
+        },
+        "Recovered": 27240,
+        "Confirmed": 75833
     },
     "2020-07-23": {
-        "delta": {
-            "Confirmed": 5030,
-            "Recovered": 2071,
-            "Deceased": 97,
-            "Active": 2862
-        },
-        "Confirmed": 80863,
-        "Recovered": 29311,
         "Deceased": 1623,
-        "Active": 49929
+        "Active": 49929,
+        "delta": {
+            "Deceased": 97,
+            "Active": 2862,
+            "Confirmed": 5030,
+            "Recovered": 2071
+        },
+        "Recovered": 29311,
+        "Confirmed": 80863
     },
     "2020-07-24": {
-        "delta": {
-            "Confirmed": 5007,
-            "Recovered": 2037,
-            "Deceased": 110,
-            "Active": 2860
-        },
-        "Confirmed": 85870,
-        "Recovered": 31348,
         "Deceased": 1733,
-        "Active": 52789
+        "Active": 52789,
+        "delta": {
+            "Deceased": 110,
+            "Active": 2860,
+            "Confirmed": 5007,
+            "Recovered": 2037
+        },
+        "Recovered": 31348,
+        "Confirmed": 85870
     },
     "2020-07-25": {
-        "delta": {
-            "Confirmed": 5072,
-            "Recovered": 2403,
-            "Deceased": 72,
-            "Active": 2597
-        },
-        "Confirmed": 90942,
-        "Recovered": 33751,
         "Deceased": 1805,
-        "Active": 55386
+        "Active": 55386,
+        "delta": {
+            "Deceased": 72,
+            "Active": 2597,
+            "Confirmed": 5072,
+            "Recovered": 2403
+        },
+        "Recovered": 33751,
+        "Confirmed": 90942
     },
     "2020-07-26": {
-        "delta": {
-            "Confirmed": 5199,
-            "Recovered": 2088,
-            "Deceased": 82,
-            "Active": 3029
-        },
-        "Confirmed": 96141,
-        "Recovered": 35839,
         "Deceased": 1887,
-        "Active": 58415
+        "Active": 58415,
+        "delta": {
+            "Deceased": 82,
+            "Active": 3029,
+            "Confirmed": 5199,
+            "Recovered": 2088
+        },
+        "Recovered": 35839,
+        "Confirmed": 96141
     },
     "2020-07-27": {
-        "delta": {
-            "Confirmed": 5324,
-            "Recovered": 1847,
-            "Deceased": 75,
-            "Active": 3402
-        },
-        "Confirmed": 101465,
-        "Recovered": 37686,
         "Deceased": 1962,
-        "Active": 61817
+        "Active": 61817,
+        "delta": {
+            "Deceased": 75,
+            "Active": 3402,
+            "Confirmed": 5324,
+            "Recovered": 1847
+        },
+        "Recovered": 37686,
+        "Confirmed": 101465
     },
     "2020-07-28": {
-        "delta": {
-            "Confirmed": 5536,
-            "Recovered": 2819,
-            "Deceased": 102,
-            "Active": 2615
-        },
-        "Confirmed": 107001,
-        "Recovered": 40505,
         "Deceased": 2064,
-        "Active": 64432
+        "Active": 64432,
+        "delta": {
+            "Deceased": 102,
+            "Active": 2615,
+            "Confirmed": 5536,
+            "Recovered": 2819
+        },
+        "Recovered": 40505,
+        "Confirmed": 107001
     },
     "2020-07-29": {
-        "delta": {
-            "Confirmed": 5503,
-            "Recovered": 2397,
-            "Deceased": 90,
-            "Active": 3016
-        },
-        "Confirmed": 112504,
-        "Recovered": 42902,
         "Deceased": 2154,
-        "Active": 67448
+        "Active": 67448,
+        "delta": {
+            "Deceased": 90,
+            "Active": 3016,
+            "Confirmed": 5503,
+            "Recovered": 2397
+        },
+        "Recovered": 42902,
+        "Confirmed": 112504
     },
     "2020-07-30": {
-        "delta": {
-            "Confirmed": 6128,
-            "Recovered": 3793,
-            "Deceased": 83,
-            "Active": 2252
-        },
-        "Confirmed": 118632,
-        "Recovered": 46695,
         "Deceased": 2237,
-        "Active": 69700
+        "Active": 69700,
+        "delta": {
+            "Deceased": 83,
+            "Active": 2252,
+            "Confirmed": 6128,
+            "Recovered": 3793
+        },
+        "Recovered": 46695,
+        "Confirmed": 118632
     },
     "2020-07-31": {
-        "delta": {
-            "Confirmed": 5483,
-            "Recovered": 3094,
-            "Deceased": 84,
-            "Active": 2305
-        },
-        "Confirmed": 124115,
-        "Recovered": 49789,
         "Deceased": 2321,
-        "Active": 72005
+        "Active": 72005,
+        "delta": {
+            "Deceased": 84,
+            "Active": 2305,
+            "Confirmed": 5483,
+            "Recovered": 3094
+        },
+        "Recovered": 49789,
+        "Confirmed": 124115
     },
     "2020-08-01": {
-        "delta": {
-            "Confirmed": 5172,
-            "Recovered": 3860,
-            "Deceased": 98,
-            "Active": 1214
-        },
-        "Confirmed": 129287,
-        "Recovered": 53649,
         "Deceased": 2419,
-        "Active": 73219
+        "Active": 73219,
+        "delta": {
+            "Deceased": 98,
+            "Active": 1214,
+            "Confirmed": 5172,
+            "Recovered": 3860
+        },
+        "Recovered": 53649,
+        "Confirmed": 129287
     },
     "2020-08-02": {
-        "delta": {
-            "Confirmed": 5532,
-            "Recovered": 4077,
-            "Deceased": 84,
-            "Active": 1371
-        },
-        "Confirmed": 134819,
-        "Recovered": 57726,
         "Deceased": 2503,
-        "Active": 74590
+        "Active": 74590,
+        "delta": {
+            "Deceased": 84,
+            "Active": 1371,
+            "Confirmed": 5532,
+            "Recovered": 4077
+        },
+        "Recovered": 57726,
+        "Confirmed": 134819
     },
     "2020-08-03": {
-        "delta": {
-            "Confirmed": 4752,
-            "Recovered": 4775,
-            "Deceased": 98,
-            "Active": -121
-        },
-        "Confirmed": 139571,
-        "Recovered": 62501,
         "Deceased": 2601,
-        "Active": 74469
+        "Active": 74469,
+        "delta": {
+            "Deceased": 98,
+            "Active": -121,
+            "Confirmed": 4752,
+            "Recovered": 4775
+        },
+        "Recovered": 62501,
+        "Confirmed": 139571
     },
     "2020-08-04": {
-        "delta": {
-            "Confirmed": 6259,
-            "Recovered": 6772,
-            "Deceased": 110,
-            "Active": -623
-        },
-        "Confirmed": 145830,
-        "Recovered": 69273,
         "Deceased": 2711,
-        "Active": 73846
+        "Active": 73846,
+        "delta": {
+            "Deceased": 110,
+            "Active": -623,
+            "Confirmed": 6259,
+            "Recovered": 6772
+        },
+        "Recovered": 69273,
+        "Confirmed": 145830
     },
     "2020-08-05": {
-        "delta": {
-            "Confirmed": 5619,
-            "Recovered": 5407,
-            "Deceased": 100,
-            "Active": 112
-        },
-        "Confirmed": 151449,
-        "Recovered": 74680,
         "Deceased": 2811,
-        "Active": 73958
+        "Active": 73958,
+        "delta": {
+            "Deceased": 100,
+            "Active": 112,
+            "Confirmed": 5619,
+            "Recovered": 5407
+        },
+        "Recovered": 74680,
+        "Confirmed": 151449
     },
     "2020-08-06": {
-        "delta": {
-            "Confirmed": 6805,
-            "Recovered": 5602,
-            "Deceased": 93,
-            "Active": 1110
-        },
-        "Confirmed": 158254,
-        "Recovered": 80282,
         "Deceased": 2904,
-        "Active": 75068
+        "Active": 75068,
+        "delta": {
+            "Deceased": 93,
+            "Active": 1110,
+            "Confirmed": 6805,
+            "Recovered": 5602
+        },
+        "Recovered": 80282,
+        "Confirmed": 158254
     },
     "2020-08-07": {
-        "delta": {
-            "Confirmed": 6670,
-            "Recovered": 3951,
-            "Deceased": 101,
-            "Active": 2618
-        },
-        "Confirmed": 164924,
-        "Recovered": 84233,
         "Deceased": 3005,
-        "Active": 77686
+        "Active": 77686,
+        "delta": {
+            "Deceased": 101,
+            "Active": 2618,
+            "Confirmed": 6670,
+            "Recovered": 3951
+        },
+        "Recovered": 84233,
+        "Confirmed": 164924
     },
     "2020-08-08": {
-        "delta": {
-            "Confirmed": 7178,
-            "Recovered": 5006,
-            "Deceased": 93,
-            "Active": 2079
-        },
-        "Confirmed": 172102,
-        "Recovered": 89239,
         "Deceased": 3098,
-        "Active": 79765
+        "Active": 79765,
+        "delta": {
+            "Deceased": 93,
+            "Active": 2079,
+            "Confirmed": 7178,
+            "Recovered": 5006
+        },
+        "Recovered": 89239,
+        "Confirmed": 172102
     },
     "2020-08-09": {
-        "delta": {
-            "Confirmed": 5985,
-            "Recovered": 4670,
-            "Deceased": 107,
-            "Active": 1208
-        },
-        "Confirmed": 178087,
-        "Recovered": 93909,
         "Deceased": 3205,
-        "Active": 80973
+        "Active": 80973,
+        "delta": {
+            "Deceased": 107,
+            "Active": 1208,
+            "Confirmed": 5985,
+            "Recovered": 4670
+        },
+        "Recovered": 93909,
+        "Confirmed": 178087
     },
     "2020-08-10": {
-        "delta": {
-            "Confirmed": 4267,
-            "Recovered": 5218,
-            "Deceased": 114,
-            "Active": -1065
-        },
-        "Confirmed": 182354,
-        "Recovered": 99127,
         "Deceased": 3319,
-        "Active": 79908
+        "Active": 79908,
+        "delta": {
+            "Deceased": 114,
+            "Active": -1065,
+            "Confirmed": 4267,
+            "Recovered": 5218
+        },
+        "Recovered": 99127,
+        "Confirmed": 182354
     },
     "2020-08-11": {
-        "delta": {
-            "Confirmed": 6257,
-            "Recovered": 6473,
-            "Deceased": 86,
-            "Active": -302
-        },
-        "Confirmed": 188611,
-        "Recovered": 105600,
         "Deceased": 3405,
-        "Active": 79606
+        "Active": 79606,
+        "delta": {
+            "Deceased": 86,
+            "Active": -302,
+            "Confirmed": 6257,
+            "Recovered": 6473
+        },
+        "Recovered": 105600,
+        "Confirmed": 188611
     },
     "2020-08-12": {
-        "delta": {
-            "Confirmed": 7883,
-            "Recovered": 7034,
-            "Deceased": 113,
-            "Active": 736
-        },
-        "Confirmed": 196494,
-        "Recovered": 112634,
         "Deceased": 3518,
-        "Active": 80342
+        "Active": 80342,
+        "delta": {
+            "Deceased": 113,
+            "Active": 736,
+            "Confirmed": 7883,
+            "Recovered": 7034
+        },
+        "Recovered": 112634,
+        "Confirmed": 196494
     },
     "2020-08-13": {
-        "delta": {
-            "Confirmed": 6706,
-            "Recovered": 8609,
-            "Deceased": 103,
-            "Active": -2006
-        },
-        "Confirmed": 203200,
-        "Recovered": 121243,
         "Deceased": 3621,
-        "Active": 78336
+        "Active": 78336,
+        "delta": {
+            "Deceased": 103,
+            "Active": -2006,
+            "Confirmed": 6706,
+            "Recovered": 8609
+        },
+        "Recovered": 121243,
+        "Confirmed": 203200
     },
     "2020-08-14": {
-        "delta": {
-            "Confirmed": 7908,
-            "Recovered": 6940,
-            "Deceased": 104,
-            "Active": 864
-        },
-        "Confirmed": 211108,
-        "Recovered": 128183,
         "Deceased": 3725,
-        "Active": 79200
+        "Active": 79200,
+        "delta": {
+            "Deceased": 104,
+            "Active": 864,
+            "Confirmed": 7908,
+            "Recovered": 6940
+        },
+        "Recovered": 128183,
+        "Confirmed": 211108
+    },
+    "2020-08-15": {
+        "Deceased": 3839,
+        "Active": 81275,
+        "delta": {
+            "Deceased": 114,
+            "Active": 2075,
+            "Confirmed": 8818,
+            "Recovered": 6629
+        },
+        "Recovered": 134812,
+        "Confirmed": 219926
+    },
+    "2020-08-16": {
+        "Deceased": 3963,
+        "Active": 81511,
+        "delta": {
+            "Deceased": 124,
+            "Active": 236,
+            "Confirmed": 7040,
+            "Recovered": 6680
+        },
+        "Recovered": 141492,
+        "Confirmed": 226966
+    },
+    "2020-08-17": {
+        "Deceased": 4078,
+        "Active": 80642,
+        "delta": {
+            "Deceased": 115,
+            "Active": -869,
+            "Confirmed": 6317,
+            "Recovered": 7071
+        },
+        "Recovered": 148563,
+        "Confirmed": 233283
     }
 }

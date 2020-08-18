@@ -1,0 +1,23 @@
+{
+    "total": {
+        "deceased": 12,
+        "confirmed": 720,
+        "recovered": 25,
+        "active": 683,
+        "tested": 9968
+    },
+    "delta": {
+        "deceased": 3,
+        "confirmed": 51,
+        "recovered": 4,
+        "active": 44,
+        "tested": 927
+    },
+    "meta": {
+        "population": 19814000,
+        "tested": {
+            "source": "http://health.delhigovt.nic.in/wps/wcm/connect/doit_health/Health/Home/Covid19/Health+Bulletin",
+            "last_updated": "2020-04-09"
+        }
+    }
+}

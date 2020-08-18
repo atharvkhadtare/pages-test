@@ -1,0 +1,23 @@
+{
+    "total": {
+        "deceased": 3,
+        "confirmed": 173,
+        "recovered": 24,
+        "active": 146,
+        "tested": 2142
+    },
+    "delta": {
+        "deceased": 1,
+        "tested": 87,
+        "confirmed": 4,
+        "recovered": 0,
+        "active": 3
+    },
+    "meta": {
+        "population": 1055450,
+        "tested": {
+            "source": "http://chdcovid19.in/",
+            "last_updated": "2020-05-10"
+        }
+    }
+}

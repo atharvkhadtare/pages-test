@@ -1,0 +1,22 @@
+{
+    "total": {
+        "deceased": 25,
+        "confirmed": 1009,
+        "recovered": 374,
+        "active": 610,
+        "tested": 19063
+    },
+    "delta": {
+        "deceased": 0,
+        "confirmed": 6,
+        "recovered": 42,
+        "active": -36,
+        "tested": 4101
+    },
+    "meta": {
+        "tested": {
+            "source": "https://www.thehindu.com/news/national/telangana/accuracy-of-tests-more-in-telangana-eatala/article31456895.ece",
+            "last_updated": "2020-04-28"
+        }
+    }
+}

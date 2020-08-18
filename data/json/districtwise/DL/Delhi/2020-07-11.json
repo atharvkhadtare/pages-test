@@ -1,0 +1,23 @@
+{
+    "total": {
+        "deceased": 3334,
+        "confirmed": 110921,
+        "recovered": 87692,
+        "active": 19895,
+        "tested": 768617
+    },
+    "delta": {
+        "deceased": 34,
+        "confirmed": 1781,
+        "recovered": 2998,
+        "active": -1251,
+        "tested": 21508
+    },
+    "meta": {
+        "population": 19814000,
+        "tested": {
+            "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/07-11.pdf",
+            "last_updated": "2020-07-11"
+        }
+    }
+}
