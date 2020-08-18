@@ -39,7 +39,7 @@ def progressBar(iterable, prefix='Progress: ', suffix='Complete', decimals=1, le
 
     # Initial Call
     printProgressBar(0, 0)
-    # Update Progress Bar
+    # Update Progress Bar2g
     for i, item in enumerate(iterable):
         yield item
         printProgressBar(i + 1, percentCompleted)
@@ -51,3 +51,12 @@ def progressBar(iterable, prefix='Progress: ', suffix='Complete', decimals=1, le
 def download_json_data(url):
 	r = requests.get(url)
 	return r.json()
+
+
+def add_daily_reports(json1, json2):
+    for count_type in ['total', 'delta']:
+        if count_type not in json1:
+            json1[count_type] = dict()
+        for status in ['confirmed', 'deceased', 'recovered']:
+            if status not in json1[count_type]:
+                json1[count_type][status] = 0
